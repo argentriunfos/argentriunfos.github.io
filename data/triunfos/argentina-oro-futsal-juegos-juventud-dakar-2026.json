@@ -1,0 +1,44 @@
+{
+  "id": "argentina-oro-futsal-juegos-juventud-dakar-2026",
+  "tipo": "noticia",
+  "titulo": "¡Oro histórico! Argentina campeona olímpica de futsal en Dakar 2026",
+  "fecha": "2026-11",
+  "rubro": "deportes",
+  "disciplina": "Futsal",
+  "protagonistas": [
+    "Selección Argentina de futsal juvenil",
+    "Lorenzo Sampedro",
+    "Joaquín Pesl",
+    "Mariano Gómez"
+  ],
+  "lugar": "Dakar, Senegal",
+  "nivel": 2,
+  "resumen": "La Selección Argentina juvenil de futsal le ganó 2-1 a Portugal en la final de los Juegos Olímpicos de la Juventud Dakar 2026 y se quedó con el primer oro de su historia en el torneo.",
+  "contenido": [
+    "En el Dakar Arena, Argentina venció 2-1 a Portugal, que también llegaba invicto. Joaquín Pesl abrió el marcador y el capitán Lorenzo Sampedro marcó el gol del triunfo en un rebote.",
+    "El equipo dirigido por Mariano Gómez ganó los cinco partidos: 2-1 a Afganistán, 9-2 a Senegal, 9-1 a Panamá, 4-2 a Marruecos en semifinales y 2-1 a Portugal en la final. En Buenos Aires 2018 había terminado cuarto."
+  ],
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "titulo": "Histórico: la selección argentina de futsal venció a Portugal y ganó por primera vez la medalla de oro en los Juegos Olímpicos de la Juventud",
+      "url": "https://www.infobae.com/deportes/2026/11/12/historico-la-seleccion-argentina-de-futsal-vencio-a-portugal-y-gano-por-primera-vez-la-medalla-de-oro-en-los-juegos-olimpicos-de-la-juventud/"
+    },
+    {
+      "medio": "DeporTV",
+      "titulo": "Argentina venció a Portugal y ganó la medalla de oro en los Juegos Olímpicos de la Juventud Dakar 2026",
+      "url": "https://deportv.gob.ar/polideportivo/argentina-vencio-portugal-gano-medalla-oro-juegos-olimpicos-juventud-dakar-2026-nid:18837"
+    }
+  ],
+  "verificacion": {
+    "estado": "en_revision",
+    "nota": "Confirmado en Infobae y DeporTV. Falta confirmar el día exacto de la final (notas del 12/11; los Juegos terminaron el 13/11)."
+  },
+  "etiquetas": [
+    "futsal",
+    "juegos olimpicos de la juventud",
+    "dakar 2026",
+    "seleccion argentina"
+  ],
+  "imagen": null
+}

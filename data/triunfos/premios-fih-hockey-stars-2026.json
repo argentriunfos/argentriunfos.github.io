@@ -1,0 +1,34 @@
+{
+  "id": "premios-fih-hockey-stars-2026",
+  "tipo": "noticia",
+  "titulo": "Argentina arrasó en los premios de la FIH: 4 de los 6 galardones del hockey mundial",
+  "fecha": "2026-10",
+  "rubro": "deportes",
+  "disciplina": "Hockey sobre césped",
+  "protagonistas": [
+    "Sofía Cairo",
+    "Tomás Domene",
+    "Cristina Cosentino",
+    "Zoé Díaz"
+  ],
+  "nivel": 2,
+  "resumen": "En los FIH Hockey Stars Awards 2026, Sofía Cairo y Tomás Domene fueron elegidos mejores jugadores del mundo, Cristina Cosentino mejor arquera y Zoé Díaz Rising Star del año.",
+  "fuentes": [
+    {
+      "medio": "Radio 3 Cadena Patagonia",
+      "titulo": "Cuatro argentinos fueron premiados entre los mejores del hockey mundial",
+      "url": "https://radio3cadenapatagonia.com.ar/cuatro-argentinos-fueron-premiados-entre-los-mejores-del-hockey-mundial/"
+    }
+  ],
+  "verificacion": {
+    "estado": "en_revision",
+    "nota": "Una sola fuente por ahora. Falta una segunda fuente independiente u oficial (FIH) y la fecha exacta."
+  },
+  "etiquetas": [
+    "hockey",
+    "fih",
+    "las leonas",
+    "los leones"
+  ],
+  "imagen": null
+}
