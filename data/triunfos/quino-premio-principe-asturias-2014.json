@@ -1,0 +1,35 @@
+{
+  "id": "quino-premio-principe-asturias-2014",
+  "tipo": "historico",
+  "titulo": "Quino, Premio Príncipe de Asturias",
+  "fecha": "2014",
+  "rubro": "cultura",
+  "disciplina": "Historieta",
+  "protagonistas": [
+    "Joaquín Salvador Lavado (Quino)"
+  ],
+  "lugar": "Oviedo, España",
+  "nivel": 2,
+  "resumen": "El creador de Mafalda recibió el Premio Príncipe de Asturias de Comunicación y Humanidades.",
+  "contenido": [
+    "Mafalda, traducida a decenas de idiomas, es uno de los personajes argentinos más conocidos del mundo."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Quino",
+      "url": "https://es.wikipedia.org/wiki/Quino"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "historieta",
+    "mafalda"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

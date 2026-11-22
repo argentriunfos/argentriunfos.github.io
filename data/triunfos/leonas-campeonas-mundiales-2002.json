@@ -1,0 +1,42 @@
+{
+  "id": "leonas-campeonas-mundiales-2002",
+  "tipo": "historico",
+  "titulo": "Las Leonas, campeonas del mundo en Perth",
+  "fecha": "2002-12-08",
+  "rubro": "deportes",
+  "disciplina": "Hockey sobre césped",
+  "protagonistas": [
+    "Las Leonas",
+    "Luciana Aymar",
+    "Cecilia Rognoni"
+  ],
+  "lugar": "Perth, Australia",
+  "nivel": 1,
+  "resumen": "La Selección femenina de hockey venció por penales a Países Bajos y ganó su primer Mundial.",
+  "contenido": [
+    "Las Leonas igualaron con Países Bajos en la final y se impusieron en los penales, conquistando el primer título mundial de su historia y dando nacimiento a un mito del deporte argentino."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia (inglés)",
+      "titulo": "2002 Women's Hockey World Cup",
+      "url": "https://en.wikipedia.org/wiki/2002_Women's_Hockey_World_Cup"
+    },
+    {
+      "medio": "ESPN Deportes",
+      "titulo": "Las Leonas son las dueñas del mundo",
+      "url": "https://espndeportes.espn.com/argentina/noticias/campeoleo021208.html"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "las leonas",
+    "mundial"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

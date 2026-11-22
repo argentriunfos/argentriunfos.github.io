@@ -1,0 +1,35 @@
+{
+  "id": "sabatini-us-open-1990",
+  "tipo": "historico",
+  "titulo": "Gabriela Sabatini, campeona del US Open",
+  "fecha": "1990-09-08",
+  "rubro": "deportes",
+  "disciplina": "Tenis",
+  "protagonistas": [
+    "Gabriela Sabatini"
+  ],
+  "lugar": "Nueva York, Estados Unidos",
+  "nivel": 2,
+  "resumen": "Gaby venció a Steffi Graf en la final y ganó su Grand Slam en Flushing Meadows.",
+  "contenido": [
+    "Gabriela Sabatini derrotó a la número uno del mundo, Steffi Graf, y se convirtió en la primera argentina en ganar un torneo de Grand Slam en singles."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Gabriela Sabatini",
+      "url": "https://es.wikipedia.org/wiki/Gabriela_Sabatini"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "tenis",
+    "grand slam"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

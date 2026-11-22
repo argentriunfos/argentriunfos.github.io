@@ -1,0 +1,36 @@
+{
+  "id": "leones-oro-olimpico-rio-2016",
+  "tipo": "historico",
+  "titulo": "Los Leones, campeones olímpicos en Río",
+  "fecha": "2016-08-18",
+  "rubro": "deportes",
+  "disciplina": "Hockey sobre césped",
+  "protagonistas": [
+    "Los Leones",
+    "Carlos Retegui"
+  ],
+  "lugar": "Río de Janeiro, Brasil",
+  "nivel": 1,
+  "resumen": "La Selección masculina de hockey venció 4-2 a Bélgica y ganó un histórico oro olímpico.",
+  "contenido": [
+    "Los Leones, dirigidos por Carlos \"Chapa\" Retegui, lograron la primera medalla de oro olímpica del hockey argentino."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Hockey sobre césped en los Juegos Olímpicos de Río de Janeiro 2016",
+      "url": "https://es.wikipedia.org/wiki/Hockey_sobre_c%C3%A9sped_en_los_Juegos_Ol%C3%ADmpicos_de_R%C3%ADo_de_Janeiro_2016"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "juegos olímpicos",
+    "oro"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

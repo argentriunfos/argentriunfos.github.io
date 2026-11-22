@@ -1,0 +1,32 @@
+{
+  "id": "bergoglio-papa-francisco-2013",
+  "tipo": "historico",
+  "titulo": "Jorge Bergoglio, primer papa latinoamericano",
+  "fecha": "2013-03-13",
+  "rubro": "sociedad",
+  "disciplina": "Religión",
+  "protagonistas": [
+    "Jorge Mario Bergoglio (Francisco)"
+  ],
+  "lugar": "Ciudad del Vaticano",
+  "nivel": 2,
+  "resumen": "El arzobispo de Buenos Aires fue elegido papa y adoptó el nombre de Francisco.",
+  "contenido": [
+    "Fue el primer papa nacido en América y el primer jesuita en ocupar el cargo, que ejerció hasta su fallecimiento en 2025."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Francisco (papa)",
+      "url": "https://es.wikipedia.org/wiki/Francisco_(papa)"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

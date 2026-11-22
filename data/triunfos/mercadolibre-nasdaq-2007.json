@@ -1,0 +1,36 @@
+{
+  "id": "mercadolibre-nasdaq-2007",
+  "tipo": "historico",
+  "titulo": "Mercado Libre sale a cotizar en Nasdaq",
+  "fecha": "2007-08-10",
+  "rubro": "tecnologia",
+  "disciplina": "Emprendimiento",
+  "protagonistas": [
+    "Mercado Libre",
+    "Marcos Galperin"
+  ],
+  "lugar": "Nueva York, Estados Unidos",
+  "nivel": 2,
+  "resumen": "La empresa fundada por Marcos Galperin en 1999 debutó en Nasdaq. Hoy es una de las compañías más valiosas de América Latina.",
+  "contenido": [
+    "Nacida en un garaje de Saavedra, Mercado Libre se convirtió en la mayor plataforma de comercio electrónico de la región."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Mercado Libre",
+      "url": "https://es.wikipedia.org/wiki/Mercado_Libre"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "empresa",
+    "unicornio"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

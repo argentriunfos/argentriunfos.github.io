@@ -1,0 +1,35 @@
+{
+  "id": "globant-nyse-2014",
+  "tipo": "historico",
+  "titulo": "Globant debuta en la Bolsa de Nueva York",
+  "fecha": "2014-07-18",
+  "rubro": "tecnologia",
+  "disciplina": "Software",
+  "protagonistas": [
+    "Globant"
+  ],
+  "lugar": "Nueva York, Estados Unidos",
+  "nivel": 3,
+  "resumen": "La empresa de software fundada en La Plata salió a cotizar en la NYSE.",
+  "contenido": [
+    "Globant se transformó en una de las compañías de servicios tecnológicos más grandes del mundo, con presencia en decenas de países."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Globant",
+      "url": "https://es.wikipedia.org/wiki/Globant"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "empresa",
+    "software"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

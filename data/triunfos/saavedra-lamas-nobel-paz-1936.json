@@ -1,0 +1,39 @@
+{
+  "id": "saavedra-lamas-nobel-paz-1936",
+  "tipo": "historico",
+  "titulo": "Saavedra Lamas, primer Nobel de la Paz latinoamericano",
+  "fecha": "1936-12-10",
+  "rubro": "sociedad",
+  "disciplina": "Paz",
+  "protagonistas": [
+    "Carlos Saavedra Lamas"
+  ],
+  "lugar": "Oslo, Noruega",
+  "nivel": 1,
+  "resumen": "El canciller argentino recibió el Nobel de la Paz por su mediación para terminar la Guerra del Chaco.",
+  "contenido": [
+    "Carlos Saavedra Lamas fue el primer latinoamericano en recibir un Premio Nobel, por su trabajo para poner fin al conflicto entre Bolivia y Paraguay."
+  ],
+  "fuentes": [
+    {
+      "medio": "NobelPrize.org",
+      "titulo": "Carlos Saavedra Lamas – Facts",
+      "url": "https://www.nobelprize.org/prizes/peace/1936/saavedra-lamas/facts/"
+    },
+    {
+      "medio": "Wikipedia",
+      "titulo": "Carlos Saavedra Lamas",
+      "url": "https://es.wikipedia.org/wiki/Carlos_Saavedra_Lamas"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "nobel"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

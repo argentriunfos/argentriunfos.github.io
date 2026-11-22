@@ -1,0 +1,38 @@
+{
+  "id": "argentina-campeon-copa-davis-2016",
+  "tipo": "historico",
+  "titulo": "Argentina gana su primera Copa Davis",
+  "fecha": "2016-11-27",
+  "rubro": "deportes",
+  "disciplina": "Tenis",
+  "protagonistas": [
+    "Equipo argentino de Copa Davis",
+    "Juan Martín del Potro",
+    "Federico Delbonis",
+    "Daniel Orsanic"
+  ],
+  "lugar": "Zagreb, Croacia",
+  "nivel": 1,
+  "resumen": "Tras cuatro finales perdidas, Argentina venció 3-2 a Croacia de visitante y ganó la \"Ensaladera\".",
+  "contenido": [
+    "Del Potro remontó dos sets ante Marin Čilić y Federico Delbonis ganó el punto decisivo frente a Ivo Karlović, para el primer título de Copa Davis del país."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Copa Davis 2016",
+      "url": "https://es.wikipedia.org/wiki/Copa_Davis_2016"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "tenis",
+    "copa davis"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "argentina-campeon-mundial-1978",
+  "tipo": "historico",
+  "titulo": "Argentina, campeona del mundo por primera vez",
+  "fecha": "1978-06-25",
+  "rubro": "deportes",
+  "disciplina": "Fútbol",
+  "protagonistas": [
+    "Selección Argentina",
+    "Mario Kempes",
+    "César Luis Menotti"
+  ],
+  "lugar": "Buenos Aires, Argentina",
+  "nivel": 1,
+  "resumen": "En el Monumental, Argentina venció 3-1 a Países Bajos en tiempo extra y levantó su primera Copa del Mundo.",
+  "contenido": [
+    "Con dos goles de Mario Kempes, goleador del torneo, y uno de Daniel Bertoni, la Selección dirigida por César Luis Menotti derrotó 3-1 a Países Bajos en la final jugada en el estadio Monumental.",
+    "Fue la primera estrella en el escudo de la AFA."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Copa Mundial de Fútbol de 1978",
+      "url": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_1978"
+    },
+    {
+      "medio": "Wikipedia",
+      "titulo": "Final de la Copa Mundial de Fútbol de 1978",
+      "url": "https://es.wikipedia.org/wiki/Final_de_la_Copa_Mundial_de_F%C3%BAtbol_de_1978"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "mundial",
+    "selección"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

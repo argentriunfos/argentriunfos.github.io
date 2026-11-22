@@ -1,0 +1,40 @@
+{
+  "id": "borges-premio-cervantes-1979",
+  "tipo": "historico",
+  "titulo": "Jorge Luis Borges recibe el Premio Cervantes",
+  "fecha": "1979",
+  "rubro": "cultura",
+  "disciplina": "Literatura",
+  "protagonistas": [
+    "Jorge Luis Borges"
+  ],
+  "lugar": "España",
+  "nivel": 2,
+  "resumen": "El autor de \"Ficciones\" y \"El Aleph\" ganó el máximo premio de las letras en español, compartido con Gerardo Diego.",
+  "contenido": [
+    "Borges, uno de los escritores más influyentes del siglo XX, recibió el Cervantes. Más tarde también lo ganarían los argentinos Ernesto Sabato (1984), Adolfo Bioy Casares (1990) y Juan Gelman (2007)."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Jorge Luis Borges",
+      "url": "https://es.wikipedia.org/wiki/Jorge_Luis_Borges"
+    },
+    {
+      "medio": "Wikipedia",
+      "titulo": "Premio Miguel de Cervantes",
+      "url": "https://es.wikipedia.org/wiki/Premio_Miguel_de_Cervantes"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "literatura",
+    "cervantes"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

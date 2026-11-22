@@ -1,0 +1,36 @@
+{
+  "id": "argentina-campeon-copa-america-2024",
+  "tipo": "historico",
+  "titulo": "Copa América 2024: bicampeones de América",
+  "fecha": "2024-07-14",
+  "rubro": "deportes",
+  "disciplina": "Fútbol",
+  "protagonistas": [
+    "Selección Argentina",
+    "Lautaro Martínez"
+  ],
+  "lugar": "Miami, Estados Unidos",
+  "nivel": 2,
+  "resumen": "Con gol de Lautaro Martínez en el alargue, Argentina venció 1-0 a Colombia y retuvo la Copa América.",
+  "contenido": [
+    "La Selección consiguió su 16.ª Copa América, récord absoluto, y su tercer título consecutivo entre Copa América, Finalissima y Mundial. Fue la despedida de Ángel Di María de la Selección."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Copa América 2024",
+      "url": "https://es.wikipedia.org/wiki/Copa_Am%C3%A9rica_2024"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "copa américa",
+    "selección"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

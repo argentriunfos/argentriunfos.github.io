@@ -1,0 +1,35 @@
+{
+  "id": "pascual-perez-campeon-mundial-1954",
+  "tipo": "historico",
+  "titulo": "Pascual Pérez, primer campeón mundial del boxeo argentino",
+  "fecha": "1954-11-26",
+  "rubro": "deportes",
+  "disciplina": "Boxeo",
+  "protagonistas": [
+    "Pascual Pérez"
+  ],
+  "lugar": "Tokio, Japón",
+  "nivel": 2,
+  "resumen": "El mendocino venció a Yoshio Shirai en Tokio y se convirtió en el primer campeón mundial argentino de boxeo profesional.",
+  "contenido": [
+    "Pascual Pérez, campeón olímpico en Londres 1948, ganó el título mundial de los moscas y lo defendió durante años."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Pascual Pérez",
+      "url": "https://es.wikipedia.org/wiki/Pascual_P%C3%A9rez"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "boxeo",
+    "título mundial"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "leloir-nobel-quimica-1970",
+  "tipo": "historico",
+  "titulo": "Luis Federico Leloir, Premio Nobel de Química",
+  "fecha": "1970-12-10",
+  "rubro": "ciencia",
+  "disciplina": "Química",
+  "protagonistas": [
+    "Luis Federico Leloir"
+  ],
+  "lugar": "Estocolmo, Suecia",
+  "nivel": 1,
+  "resumen": "Leloir ganó el Nobel de Química por descubrir los nucleótidos de azúcar y su rol en la biosíntesis de carbohidratos.",
+  "contenido": [
+    "Trabajando con recursos mínimos en Buenos Aires, Leloir hizo descubrimientos fundamentales para la bioquímica. También se le atribuye la invención de la salsa golf."
+  ],
+  "fuentes": [
+    {
+      "medio": "NobelPrize.org",
+      "titulo": "Luis Leloir – Facts",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1970/leloir/facts/"
+    },
+    {
+      "medio": "Wikipedia",
+      "titulo": "Luis Federico Leloir",
+      "url": "https://es.wikipedia.org/wiki/Luis_Federico_Leloir"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "nobel"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

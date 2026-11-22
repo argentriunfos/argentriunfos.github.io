@@ -1,0 +1,35 @@
+{
+  "id": "vilas-roland-garros-1977",
+  "tipo": "historico",
+  "titulo": "Guillermo Vilas gana Roland Garros",
+  "fecha": "1977-06-05",
+  "rubro": "deportes",
+  "disciplina": "Tenis",
+  "protagonistas": [
+    "Guillermo Vilas"
+  ],
+  "lugar": "París, Francia",
+  "nivel": 2,
+  "resumen": "Vilas conquistó en París el primer Grand Slam del tenis masculino argentino, en un 1977 histórico.",
+  "contenido": [
+    "Vilas derrotó a Brian Gottfried en la final de Roland Garros. Ese mismo año ganó también el US Open y logró una racha de 46 partidos invicto en polvo de ladrillo. Popularizó el tenis en todo el país."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Guillermo Vilas",
+      "url": "https://es.wikipedia.org/wiki/Guillermo_Vilas"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "tenis",
+    "grand slam"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

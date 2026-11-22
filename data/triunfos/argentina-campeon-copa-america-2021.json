@@ -1,0 +1,37 @@
+{
+  "id": "argentina-campeon-copa-america-2021",
+  "tipo": "historico",
+  "titulo": "Copa América 2021: campeones en el Maracaná",
+  "fecha": "2021-07-10",
+  "rubro": "deportes",
+  "disciplina": "Fútbol",
+  "protagonistas": [
+    "Selección Argentina",
+    "Ángel Di María",
+    "Lionel Messi"
+  ],
+  "lugar": "Río de Janeiro, Brasil",
+  "nivel": 2,
+  "resumen": "Con un golazo de Di María, Argentina le ganó 1-0 a Brasil en el Maracaná y cortó 28 años sin títulos.",
+  "contenido": [
+    "La Selección de Lionel Scaloni venció a Brasil en su casa con un gol de Ángel Di María y conquistó la Copa América, el primer título mayor de Messi con la camiseta argentina."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Copa América 2021",
+      "url": "https://es.wikipedia.org/wiki/Copa_Am%C3%A9rica_2021"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "copa américa",
+    "selección"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

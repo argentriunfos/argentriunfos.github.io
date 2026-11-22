@@ -1,0 +1,36 @@
+{
+  "id": "voley-bronce-olimpico-tokio-2020",
+  "tipo": "historico",
+  "titulo": "Bronce olímpico para el vóley en Tokio",
+  "fecha": "2021-08-07",
+  "rubro": "deportes",
+  "disciplina": "Vóley",
+  "protagonistas": [
+    "Selección Argentina de vóley masculino",
+    "Marcelo Méndez"
+  ],
+  "lugar": "Tokio, Japón",
+  "nivel": 3,
+  "resumen": "Argentina venció 3-2 a Brasil y ganó la medalla de bronce en los Juegos de Tokio 2020.",
+  "contenido": [
+    "Fue la segunda medalla olímpica del vóley argentino, después del bronce de Seúl 1988."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Voleibol en los Juegos Olímpicos de Tokio 2020",
+      "url": "https://es.wikipedia.org/wiki/Voleibol_en_los_Juegos_Ol%C3%ADmpicos_de_Tokio_2020"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "juegos olímpicos",
+    "bronce"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

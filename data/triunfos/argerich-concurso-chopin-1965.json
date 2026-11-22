@@ -1,0 +1,35 @@
+{
+  "id": "argerich-concurso-chopin-1965",
+  "tipo": "historico",
+  "titulo": "Martha Argerich gana el Concurso Chopin",
+  "fecha": "1965",
+  "rubro": "cultura",
+  "disciplina": "Música clásica",
+  "protagonistas": [
+    "Martha Argerich"
+  ],
+  "lugar": "Varsovia, Polonia",
+  "nivel": 2,
+  "resumen": "La pianista porteña ganó el Concurso Internacional de Piano Federico Chopin, uno de los más prestigiosos del mundo.",
+  "contenido": [
+    "Martha Argerich es considerada una de las más grandes pianistas de la historia."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Martha Argerich",
+      "url": "https://es.wikipedia.org/wiki/Martha_Argerich"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "música",
+    "piano"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

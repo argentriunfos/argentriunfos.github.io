@@ -1,0 +1,35 @@
+{
+  "id": "ginobili-campeon-nba-2003",
+  "tipo": "historico",
+  "titulo": "Manu Ginóbili, campeón de la NBA",
+  "fecha": "2003-06-15",
+  "rubro": "deportes",
+  "disciplina": "Básquet",
+  "protagonistas": [
+    "Manu Ginóbili"
+  ],
+  "lugar": "San Antonio, Estados Unidos",
+  "nivel": 2,
+  "resumen": "En su primera temporada, Manu ganó el anillo de la NBA con los San Antonio Spurs.",
+  "contenido": [
+    "Fue el primero de sus cuatro títulos de NBA (2003, 2005, 2007 y 2014). En 2022 ingresó al Salón de la Fama del básquet."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Manu Ginóbili",
+      "url": "https://es.wikipedia.org/wiki/Manu_Gin%C3%B3bili"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "nba",
+    "básquet"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

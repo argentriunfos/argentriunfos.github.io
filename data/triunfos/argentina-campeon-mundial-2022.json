@@ -1,0 +1,45 @@
+{
+  "id": "argentina-campeon-mundial-2022",
+  "tipo": "historico",
+  "titulo": "Qatar 2022: Messi levanta la tercera estrella",
+  "fecha": "2022-12-18",
+  "rubro": "deportes",
+  "disciplina": "Fútbol",
+  "protagonistas": [
+    "Selección Argentina",
+    "Lionel Messi",
+    "Lionel Scaloni",
+    "Emiliano Martínez"
+  ],
+  "lugar": "Lusail, Qatar",
+  "nivel": 1,
+  "resumen": "Tras un 3-3 épico ante Francia, Argentina ganó 4-2 por penales y se consagró tricampeona del mundo.",
+  "contenido": [
+    "En una de las finales más dramáticas de la historia, Argentina empató 3-3 con Francia (doblete de Messi y gol de Di María) y se impuso 4-2 en la tanda de penales, con atajada de Emiliano \"Dibu\" Martínez y el penal decisivo de Gonzalo Montiel.",
+    "Lionel Messi fue elegido mejor jugador del torneo y cumplió el sueño de todo un país."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Final de la Copa Mundial de Fútbol de 2022",
+      "url": "https://es.wikipedia.org/wiki/Final_de_la_Copa_Mundial_de_F%C3%BAtbol_de_2022"
+    },
+    {
+      "medio": "Wikipedia",
+      "titulo": "Copa Mundial de Fútbol de 2022",
+      "url": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2022"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "mundial",
+    "selección",
+    "messi"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

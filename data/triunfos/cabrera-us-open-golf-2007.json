@@ -1,0 +1,34 @@
+{
+  "id": "cabrera-us-open-golf-2007",
+  "tipo": "historico",
+  "titulo": "Ángel Cabrera gana el US Open de golf",
+  "fecha": "2007-06-17",
+  "rubro": "deportes",
+  "disciplina": "Golf",
+  "protagonistas": [
+    "Ángel Cabrera"
+  ],
+  "lugar": "Oakmont, Estados Unidos",
+  "nivel": 2,
+  "resumen": "\"El Pato\" Cabrera ganó en Oakmont el primer major del golf argentino moderno.",
+  "contenido": [
+    "Ángel Cabrera superó por un golpe a Tiger Woods y Jim Furyk. En 2009 sumó además el Masters de Augusta."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Ángel Cabrera",
+      "url": "https://es.wikipedia.org/wiki/%C3%81ngel_Cabrera"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "golf"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

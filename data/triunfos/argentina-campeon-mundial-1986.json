@@ -1,0 +1,44 @@
+{
+  "id": "argentina-campeon-mundial-1986",
+  "tipo": "historico",
+  "titulo": "México 86: la segunda estrella con Maradona",
+  "fecha": "1986-06-29",
+  "rubro": "deportes",
+  "disciplina": "Fútbol",
+  "protagonistas": [
+    "Selección Argentina",
+    "Diego Armando Maradona",
+    "Carlos Bilardo"
+  ],
+  "lugar": "Ciudad de México, México",
+  "nivel": 1,
+  "resumen": "Argentina le ganó 3-2 a Alemania Federal en el Estadio Azteca y se consagró bicampeona del mundo.",
+  "contenido": [
+    "La Selección de Carlos Bilardo, liderada por un Diego Maradona inolvidable, venció 3-2 a Alemania Federal en la final con goles de José Luis Brown, Jorge Valdano y Jorge Burruchaga.",
+    "En ese mismo torneo, Maradona marcó ante Inglaterra el gol elegido como el mejor de la historia de los mundiales."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Copa Mundial de Fútbol de 1986",
+      "url": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_1986"
+    },
+    {
+      "medio": "Wikipedia",
+      "titulo": "Final de la Copa Mundial de Fútbol de 1986",
+      "url": "https://es.wikipedia.org/wiki/Final_de_la_Copa_Mundial_de_F%C3%BAtbol_de_1986"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "mundial",
+    "selección",
+    "maradona"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

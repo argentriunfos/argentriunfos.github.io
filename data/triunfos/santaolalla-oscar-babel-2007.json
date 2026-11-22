@@ -1,0 +1,40 @@
+{
+  "id": "santaolalla-oscar-babel-2007",
+  "tipo": "historico",
+  "titulo": "Santaolalla, bicampeón del Oscar con \"Babel\"",
+  "fecha": "2007-02-25",
+  "rubro": "cultura",
+  "disciplina": "Música",
+  "protagonistas": [
+    "Gustavo Santaolalla"
+  ],
+  "lugar": "Los Ángeles, Estados Unidos",
+  "nivel": 2,
+  "resumen": "Por segundo año consecutivo, Santaolalla ganó el Oscar a la mejor banda sonora original.",
+  "contenido": [
+    "La música de \"Babel\", de Alejandro González Iñárritu, le dio su segunda estatuilla consecutiva."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Gustavo Santaolalla",
+      "url": "https://es.wikipedia.org/wiki/Gustavo_Santaolalla"
+    },
+    {
+      "medio": "Academy of Motion Picture Arts and Sciences",
+      "titulo": "The 2007 Oscars",
+      "url": "https://www.oscars.org/oscars/ceremonies/2007"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "oscar",
+    "música"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

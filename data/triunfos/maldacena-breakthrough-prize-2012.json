@@ -1,0 +1,34 @@
+{
+  "id": "maldacena-breakthrough-prize-2012",
+  "tipo": "historico",
+  "titulo": "Juan Maldacena gana el Breakthrough Prize de Física",
+  "fecha": "2012-07-31",
+  "rubro": "ciencia",
+  "disciplina": "Física teórica",
+  "protagonistas": [
+    "Juan Martín Maldacena"
+  ],
+  "lugar": "Princeton, Estados Unidos",
+  "nivel": 2,
+  "resumen": "El físico porteño, autor de la conjetura AdS/CFT, fue uno de los ganadores del primer Premio de Física Fundamental.",
+  "contenido": [
+    "Maldacena, investigador del Instituto de Estudios Avanzados de Princeton, es considerado uno de los físicos teóricos más importantes del mundo."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Juan Martín Maldacena",
+      "url": "https://es.wikipedia.org/wiki/Juan_Mart%C3%ADn_Maldacena"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "física"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

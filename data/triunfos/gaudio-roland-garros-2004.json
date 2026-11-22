@@ -1,0 +1,35 @@
+{
+  "id": "gaudio-roland-garros-2004",
+  "tipo": "historico",
+  "titulo": "Gastón Gaudio gana Roland Garros",
+  "fecha": "2004-06-06",
+  "rubro": "deportes",
+  "disciplina": "Tenis",
+  "protagonistas": [
+    "Gastón Gaudio"
+  ],
+  "lugar": "París, Francia",
+  "nivel": 2,
+  "resumen": "En una final 100% argentina, Gaudio remontó dos sets abajo ante Guillermo Coria y levantó la Copa de los Mosqueteros.",
+  "contenido": [
+    "La final de Roland Garros 2004 enfrentó a dos argentinos. Gaudio, que no era favorito, dio vuelta un partido increíble y se quedó con el título."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Gastón Gaudio",
+      "url": "https://es.wikipedia.org/wiki/Gast%C3%B3n_Gaudio"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "tenis",
+    "grand slam"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "la-historia-oficial-oscar-1986",
+  "tipo": "historico",
+  "titulo": "\"La historia oficial\", primer Oscar para el cine argentino",
+  "fecha": "1986-03-24",
+  "rubro": "cultura",
+  "disciplina": "Cine",
+  "protagonistas": [
+    "Luis Puenzo",
+    "Norma Aleandro"
+  ],
+  "lugar": "Los Ángeles, Estados Unidos",
+  "nivel": 1,
+  "resumen": "La película de Luis Puenzo ganó el Oscar a la mejor película extranjera.",
+  "contenido": [
+    "Fue la primera película latinoamericana en ganar el Oscar en esa categoría. Norma Aleandro fue además premiada como mejor actriz en Cannes."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "La historia oficial",
+      "url": "https://es.wikipedia.org/wiki/La_historia_oficial"
+    },
+    {
+      "medio": "Academy of Motion Picture Arts and Sciences",
+      "titulo": "The 1986 Oscars",
+      "url": "https://www.oscars.org/oscars/ceremonies/1986"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "oscar",
+    "cine"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

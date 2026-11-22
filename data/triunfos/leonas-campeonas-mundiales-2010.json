@@ -1,0 +1,36 @@
+{
+  "id": "leonas-campeonas-mundiales-2010",
+  "tipo": "historico",
+  "titulo": "Las Leonas, bicampeonas del mundo en Rosario",
+  "fecha": "2010-09-11",
+  "rubro": "deportes",
+  "disciplina": "Hockey sobre césped",
+  "protagonistas": [
+    "Las Leonas",
+    "Luciana Aymar"
+  ],
+  "lugar": "Rosario, Argentina",
+  "nivel": 1,
+  "resumen": "De local, Las Leonas vencieron 3-1 a Países Bajos y volvieron a ser campeonas del mundo.",
+  "contenido": [
+    "Ante su gente en Rosario, ciudad natal de Luciana Aymar, Las Leonas ganaron la final 3-1 y sumaron su segunda estrella."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia (inglés)",
+      "titulo": "2010 Women's Hockey World Cup",
+      "url": "https://en.wikipedia.org/wiki/2010_Women's_Hockey_World_Cup"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "las leonas",
+    "mundial"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pumas-bronce-mundial-rugby-2007",
+  "tipo": "historico",
+  "titulo": "Los Pumas, terceros en el Mundial de Rugby",
+  "fecha": "2007-10-19",
+  "rubro": "deportes",
+  "disciplina": "Rugby",
+  "protagonistas": [
+    "Los Pumas",
+    "Agustín Pichot",
+    "Juan Martín Hernández"
+  ],
+  "lugar": "París, Francia",
+  "nivel": 2,
+  "resumen": "Los Pumas vencieron 34-10 al local Francia y se quedaron con el bronce en el Mundial de Rugby.",
+  "contenido": [
+    "En su mejor actuación histórica, Argentina le ganó dos veces a Francia en ese Mundial: en el partido inaugural y en el duelo por el tercer puesto."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Copa Mundial de Rugby de 2007",
+      "url": "https://es.wikipedia.org/wiki/Copa_Mundial_de_Rugby_de_2007"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "rugby",
+    "mundial"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

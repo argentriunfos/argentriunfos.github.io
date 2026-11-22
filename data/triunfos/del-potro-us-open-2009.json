@@ -1,0 +1,35 @@
+{
+  "id": "del-potro-us-open-2009",
+  "tipo": "historico",
+  "titulo": "Del Potro le gana a Federer y conquista el US Open",
+  "fecha": "2009-09-14",
+  "rubro": "deportes",
+  "disciplina": "Tenis",
+  "protagonistas": [
+    "Juan Martín del Potro"
+  ],
+  "lugar": "Nueva York, Estados Unidos",
+  "nivel": 2,
+  "resumen": "Con 20 años, \"Delpo\" derrotó a Roger Federer en cinco sets y ganó su primer Grand Slam.",
+  "contenido": [
+    "Juan Martín del Potro venció al suizo, cinco veces campeón consecutivo del torneo, y se consagró en Flushing Meadows."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Juan Martín del Potro",
+      "url": "https://es.wikipedia.org/wiki/Juan_Mart%C3%ADn_del_Potro"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "tenis",
+    "grand slam"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

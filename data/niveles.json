@@ -1,0 +1,6 @@
+{
+  "1": { "nombre": "Hazaña histórica",    "descripcion": "Un triunfo que queda en la historia del país. Mundiales, Nobel, oros olímpicos." },
+  "2": { "nombre": "Gloria internacional", "descripcion": "Un título o premio internacional de primer nivel en su disciplina." },
+  "3": { "nombre": "Gran logro",           "descripcion": "Un podio, premio o reconocimiento internacional destacado." },
+  "4": { "nombre": "Orgullo de nicho",     "descripcion": "Un logro importante en un ámbito más chico, regional o una promesa que asoma." }
+}

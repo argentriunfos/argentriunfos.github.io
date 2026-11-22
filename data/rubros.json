@@ -1,0 +1,10 @@
+{
+  "deportes":    { "nombre": "Deportes",            "emoji": "🏆", "descripcion": "Mundiales, Juegos Olímpicos, Grand Slams, títulos mundiales y todo lo que se gana en una cancha, una pista o un ring." },
+  "ciencia":     { "nombre": "Ciencia y medicina",  "emoji": "🔬", "descripcion": "Premios Nobel, descubrimientos, avances médicos y científicos argentinos que cambiaron el mundo." },
+  "cultura":     { "nombre": "Cultura y arte",      "emoji": "🎬", "descripcion": "Oscar, Cervantes, bienales, concursos internacionales: el arte argentino que conquistó al mundo." },
+  "tecnologia":  { "nombre": "Tecnología",          "emoji": "🛰️", "descripcion": "Satélites, inventos, unicornios y empresas argentinas que juegan en primera a nivel global." },
+  "esports":     { "nombre": "Esports y juegos",    "emoji": "🎮", "descripcion": "Campeones argentinos de videojuegos, juegos de cartas, ajedrez online y competencias de mente." },
+  "educacion":   { "nombre": "Educación",           "emoji": "🎓", "descripcion": "Olimpíadas del conocimiento, becas, estudiantes y docentes argentinos premiados en el mundo." },
+  "gastronomia": { "nombre": "Gastronomía",         "emoji": "🍷", "descripcion": "Chefs, restaurantes, vinos y productos argentinos premiados internacionalmente." },
+  "sociedad":    { "nombre": "Sociedad y paz",      "emoji": "🕊️", "descripcion": "Premios a la paz, derechos humanos y argentinos que llegaron a lo más alto en instituciones del mundo." }
+}

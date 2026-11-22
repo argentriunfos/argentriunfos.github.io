@@ -1,0 +1,34 @@
+{
+  "id": "biro-patente-birome-1943",
+  "tipo": "historico",
+  "titulo": "Ladislao Biro patenta la birome en Argentina",
+  "fecha": "1943",
+  "rubro": "tecnologia",
+  "disciplina": "Inventos",
+  "protagonistas": [
+    "Ladislao José Biro"
+  ],
+  "lugar": "Buenos Aires, Argentina",
+  "nivel": 2,
+  "resumen": "El inventor húngaro-argentino patentó en Buenos Aires el bolígrafo moderno, usado hoy en todo el mundo.",
+  "contenido": [
+    "Biro llegó a la Argentina escapando de la guerra y aquí desarrolló y patentó la birome. En su honor, el 29 de septiembre, día de su nacimiento, se celebra en el país el Día del Inventor. El argentino nace donde quiere."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Ladislao José Biro",
+      "url": "https://es.wikipedia.org/wiki/Ladislao_Jos%C3%A9_Biro"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "invento"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

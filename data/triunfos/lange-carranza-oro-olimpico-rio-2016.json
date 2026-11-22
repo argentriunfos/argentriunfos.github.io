@@ -1,0 +1,41 @@
+{
+  "id": "lange-carranza-oro-olimpico-rio-2016",
+  "tipo": "historico",
+  "titulo": "Lange y Carranza, oro olímpico en vela",
+  "fecha": "2016-08-16",
+  "rubro": "deportes",
+  "disciplina": "Vela",
+  "protagonistas": [
+    "Santiago Lange",
+    "Cecilia Carranza Saroli"
+  ],
+  "lugar": "Río de Janeiro, Brasil",
+  "nivel": 1,
+  "resumen": "Un año después de superar un cáncer de pulmón, Santiago Lange ganó el oro en Nacra 17 junto a Cecilia Carranza.",
+  "contenido": [
+    "Con 54 años, Lange se convirtió en uno de los campeones olímpicos más longevos, en una historia de superación que conmovió al mundo."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Santiago Lange",
+      "url": "https://es.wikipedia.org/wiki/Santiago_Lange"
+    },
+    {
+      "medio": "Wikipedia",
+      "titulo": "Cecilia Carranza Saroli",
+      "url": "https://es.wikipedia.org/wiki/Cecilia_Carranza_Saroli"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "juegos olímpicos",
+    "oro"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

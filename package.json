@@ -1,0 +1,11 @@
+{
+  "name": "argentriunfos",
+  "private": true,
+  "type": "module",
+  "description": "Web de Argentriunfos: el registro verificado de los triunfos argentinos.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "BASE=/ node scripts/build.mjs && npx --yes serve dist",
+    "check-links": "node scripts/check-links.mjs"
+  }
+}

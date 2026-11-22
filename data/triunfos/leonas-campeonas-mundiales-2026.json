@@ -1,0 +1,45 @@
+{
+  "id": "leonas-campeonas-mundiales-2026",
+  "tipo": "noticia",
+  "titulo": "¡Las Leonas son tricampeonas del mundo!",
+  "fecha": "2026-08-29",
+  "rubro": "deportes",
+  "disciplina": "Hockey sobre césped",
+  "protagonistas": [
+    "Las Leonas",
+    "Cristina Cosentino",
+    "María José Granatto",
+    "Sofía Cairo",
+    "Fernando Ferrara"
+  ],
+  "lugar": "Países Bajos",
+  "nivel": 1,
+  "resumen": "En suelo neerlandés y ante Países Bajos, Las Leonas ganaron 3-1 por penales y conquistaron su tercera estrella.",
+  "contenido": [
+    "La final terminó 1-1: Yibbi Jansen abrió el marcador para Países Bajos y María José Granatto empató a seis minutos del final.",
+    "En los penales apareció Cristina \"China\" Cosentino, que atajó tres, y Sofía Cairo convirtió el penal decisivo. Argentina terminó con la racha de tres mundiales seguidos de Países Bajos y sumó su tercer título, después de Perth 2002 y Rosario 2010."
+  ],
+  "fuentes": [
+    {
+      "medio": "Perfil",
+      "titulo": "Hazaña: Las Leonas sumaron la tercera estrella, por penales y ante Países Bajos",
+      "url": "https://www.perfil.com/noticias/deportes/hazana-las-leonas-sumaron-la-tercera-estrella-por-penales-y-ante-paises-bajos.phtml"
+    },
+    {
+      "medio": "Tiempo Argentino",
+      "titulo": "Épico: Las Leonas también tienen su tercera estrella",
+      "url": "https://www.tiempoar.com.ar/ta_article/epico-las-leonas-tambien-tienen-su-tercera-estrella/"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Confirmado en dos medios independientes."
+  },
+  "etiquetas": [
+    "las leonas",
+    "mundial"
+  ],
+  "publicado": "2026-08-30",
+  "imagen": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "argentina-1985-globo-de-oro-2023",
+  "tipo": "historico",
+  "titulo": "\"Argentina, 1985\" gana el Globo de Oro",
+  "fecha": "2023-01-10",
+  "rubro": "cultura",
+  "disciplina": "Cine",
+  "protagonistas": [
+    "Santiago Mitre",
+    "Ricardo Darín",
+    "Peter Lanzani"
+  ],
+  "lugar": "Los Ángeles, Estados Unidos",
+  "nivel": 2,
+  "resumen": "La película de Santiago Mitre sobre el Juicio a las Juntas ganó el Globo de Oro a la mejor película de habla no inglesa.",
+  "contenido": [
+    "Además fue nominada al Oscar y ganó el Goya a la mejor película iberoamericana."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Argentina, 1985",
+      "url": "https://es.wikipedia.org/wiki/Argentina,_1985"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "cine",
+    "globo de oro"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

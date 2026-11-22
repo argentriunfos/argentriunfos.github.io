@@ -1,0 +1,41 @@
+{
+  "id": "cassiraga-subcampeon-mundial-pokemon-2026",
+  "tipo": "noticia",
+  "titulo": "Diego Cassiraga, subcampeón del mundo de Pokémon TCG",
+  "fecha": "2026-08-30",
+  "rubro": "esports",
+  "disciplina": "Pokémon TCG",
+  "protagonistas": [
+    "Diego Cassiraga"
+  ],
+  "lugar": "San Francisco, Estados Unidos",
+  "nivel": 3,
+  "resumen": "Nueve años después de ser campeón mundial, el argentino volvió a jugar la final del Mundial de Pokémon TCG.",
+  "contenido": [
+    "Con un mazo de Alakazam y Dudunsparce y un récord de 12 victorias, 1 derrota y 2 empates en la fase suiza, Cassiraga llegó a la final de Masters del Pokémon World Championship 2026 en San Francisco, donde cayó ante el estadounidense Andrew Hedrick.",
+    "Un podio mundial que confirma que el argentino es uno de los mejores jugadores del planeta."
+  ],
+  "fuentes": [
+    {
+      "medio": "Cultura Geek",
+      "titulo": "El argentino Diego Cassiraga logró el subcampeonato del mundial de cartas Pokémon",
+      "url": "https://culturageek.com.ar/el-argentino-diego-cassiraga-logro-el-subcampeonato-del-mundial-de-cartas-pokemon/"
+    },
+    {
+      "medio": "LevelUp",
+      "titulo": "Pokémon World Championships 2026: el argentino Diego Cassiraga pierde la final de Pokémon TCG ante Andrew Hedrick",
+      "url": "https://www.levelup.com/noticias/pokemon-world-championships-2026-el-argentino-diego-cassiraga-pierde-la-final-de-pokemon-tcg-ante-andrew-hedrick/"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Confirmado en dos medios independientes."
+  },
+  "etiquetas": [
+    "pokémon",
+    "cartas"
+  ],
+  "publicado": "2026-08-31",
+  "imagen": null
+}

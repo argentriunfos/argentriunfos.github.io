@@ -1,0 +1,40 @@
+{
+  "id": "oro-olimpico-basquet-atenas-2004",
+  "tipo": "historico",
+  "titulo": "La Generación Dorada, campeona olímpica",
+  "fecha": "2004-08-28",
+  "rubro": "deportes",
+  "disciplina": "Básquet",
+  "protagonistas": [
+    "Selección Argentina de básquet",
+    "Manu Ginóbili",
+    "Luis Scola",
+    "Rubén Magnano"
+  ],
+  "lugar": "Atenas, Grecia",
+  "nivel": 1,
+  "resumen": "Tras eliminar a Estados Unidos en semifinales, Argentina venció a Italia y ganó el oro olímpico en básquet.",
+  "contenido": [
+    "La Generación Dorada, con Manu Ginóbili como figura, le ganó la semifinal al Dream Team de Estados Unidos y luego derrotó 84-69 a Italia en la final.",
+    "Es uno de los logros colectivos más grandes de la historia del deporte argentino."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Baloncesto en los Juegos Olímpicos de Atenas 2004",
+      "url": "https://es.wikipedia.org/wiki/Baloncesto_en_los_Juegos_Ol%C3%ADmpicos_de_Atenas_2004"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "juegos olímpicos",
+    "oro",
+    "generación dorada"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

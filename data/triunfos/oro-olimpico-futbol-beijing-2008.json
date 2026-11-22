@@ -1,0 +1,37 @@
+{
+  "id": "oro-olimpico-futbol-beijing-2008",
+  "tipo": "historico",
+  "titulo": "Bicampeones olímpicos en fútbol: Beijing 2008",
+  "fecha": "2008-08-23",
+  "rubro": "deportes",
+  "disciplina": "Fútbol",
+  "protagonistas": [
+    "Selección Argentina Sub-23",
+    "Ángel Di María",
+    "Lionel Messi"
+  ],
+  "lugar": "Pekín, China",
+  "nivel": 1,
+  "resumen": "Con una vaselina de Di María, Argentina venció 1-0 a Nigeria y repitió el oro olímpico.",
+  "contenido": [
+    "El equipo dirigido por Sergio Batista, con Messi, Riquelme, Agüero y Mascherano, retuvo la medalla de oro conseguida en Atenas."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Fútbol en los Juegos Olímpicos de Pekín 2008",
+      "url": "https://es.wikipedia.org/wiki/F%C3%BAtbol_en_los_Juegos_Ol%C3%ADmpicos_de_Pek%C3%ADn_2008"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "juegos olímpicos",
+    "oro"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

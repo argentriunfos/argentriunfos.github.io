@@ -1,0 +1,39 @@
+{
+  "id": "milstein-nobel-medicina-1984",
+  "tipo": "historico",
+  "titulo": "César Milstein, Premio Nobel de Medicina",
+  "fecha": "1984-12-10",
+  "rubro": "ciencia",
+  "disciplina": "Medicina",
+  "protagonistas": [
+    "César Milstein"
+  ],
+  "lugar": "Estocolmo, Suecia",
+  "nivel": 1,
+  "resumen": "El bahiense Milstein ganó el Nobel por desarrollar la técnica de los anticuerpos monoclonales.",
+  "contenido": [
+    "Su descubrimiento revolucionó el diagnóstico y el tratamiento de enfermedades. Milstein decidió no patentarlo para que estuviera al alcance de todos."
+  ],
+  "fuentes": [
+    {
+      "medio": "NobelPrize.org",
+      "titulo": "César Milstein – Facts",
+      "url": "https://www.nobelprize.org/prizes/medicine/1984/milstein/facts/"
+    },
+    {
+      "medio": "Wikipedia",
+      "titulo": "César Milstein",
+      "url": "https://es.wikipedia.org/wiki/C%C3%A9sar_Milstein"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "nobel"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

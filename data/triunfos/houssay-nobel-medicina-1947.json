@@ -1,0 +1,39 @@
+{
+  "id": "houssay-nobel-medicina-1947",
+  "tipo": "historico",
+  "titulo": "Bernardo Houssay, primer Nobel de ciencia de Latinoamérica",
+  "fecha": "1947-12-10",
+  "rubro": "ciencia",
+  "disciplina": "Medicina",
+  "protagonistas": [
+    "Bernardo Houssay"
+  ],
+  "lugar": "Estocolmo, Suecia",
+  "nivel": 1,
+  "resumen": "Houssay recibió el Premio Nobel de Medicina por sus descubrimientos sobre la hipófisis y el metabolismo del azúcar.",
+  "contenido": [
+    "Fue el primer latinoamericano en ganar un Nobel en ciencias. Fundador del CONICET, es uno de los padres de la ciencia argentina."
+  ],
+  "fuentes": [
+    {
+      "medio": "NobelPrize.org",
+      "titulo": "Bernardo Houssay – Facts",
+      "url": "https://www.nobelprize.org/prizes/medicine/1947/houssay/facts/"
+    },
+    {
+      "medio": "Wikipedia",
+      "titulo": "Bernardo Houssay",
+      "url": "https://es.wikipedia.org/wiki/Bernardo_Houssay"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "nobel"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

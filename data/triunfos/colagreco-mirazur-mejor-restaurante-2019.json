@@ -1,0 +1,35 @@
+{
+  "id": "colagreco-mirazur-mejor-restaurante-2019",
+  "tipo": "historico",
+  "titulo": "Mirazur, de Mauro Colagreco, mejor restaurante del mundo",
+  "fecha": "2019-06-25",
+  "rubro": "gastronomia",
+  "disciplina": "Alta cocina",
+  "protagonistas": [
+    "Mauro Colagreco"
+  ],
+  "lugar": "Singapur",
+  "nivel": 2,
+  "resumen": "El restaurante del chef platense en Menton, Francia, fue elegido número uno en The World's 50 Best Restaurants.",
+  "contenido": [
+    "Ese mismo año Mirazur obtuvo además su tercera estrella Michelin. Colagreco es uno de los chefs más reconocidos del planeta."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Mauro Colagreco",
+      "url": "https://es.wikipedia.org/wiki/Mauro_Colagreco"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "chef",
+    "restaurante"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

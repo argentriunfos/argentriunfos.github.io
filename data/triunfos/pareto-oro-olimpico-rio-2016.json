@@ -1,0 +1,35 @@
+{
+  "id": "pareto-oro-olimpico-rio-2016",
+  "tipo": "historico",
+  "titulo": "Paula Pareto, oro olímpico en judo",
+  "fecha": "2016-08-06",
+  "rubro": "deportes",
+  "disciplina": "Judo",
+  "protagonistas": [
+    "Paula Pareto"
+  ],
+  "lugar": "Río de Janeiro, Brasil",
+  "nivel": 1,
+  "resumen": "\"La Peque\" ganó el oro en -48 kg y se convirtió en la primera mujer argentina campeona olímpica en un deporte individual.",
+  "contenido": [
+    "Médica y judoca, Paula Pareto venció en la final a la surcoreana Jeong Bo-kyeong y se colgó la medalla dorada, después del bronce que había conseguido en Beijing 2008."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Paula Pareto",
+      "url": "https://es.wikipedia.org/wiki/Paula_Pareto"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "juegos olímpicos",
+    "oro"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

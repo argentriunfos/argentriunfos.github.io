@@ -1,0 +1,34 @@
+{
+  "id": "pelli-medalla-oro-aia-1995",
+  "tipo": "historico",
+  "titulo": "César Pelli recibe la Medalla de Oro del AIA",
+  "fecha": "1995",
+  "rubro": "cultura",
+  "disciplina": "Arquitectura",
+  "protagonistas": [
+    "César Pelli"
+  ],
+  "lugar": "Estados Unidos",
+  "nivel": 2,
+  "resumen": "El arquitecto tucumano, autor de las Torres Petronas, recibió la máxima distinción del Instituto Americano de Arquitectos.",
+  "contenido": [
+    "Pelli diseñó algunos de los rascacielos más famosos del mundo, como las Torres Petronas de Kuala Lumpur, que fueron los edificios más altos del planeta."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "César Pelli",
+      "url": "https://es.wikipedia.org/wiki/C%C3%A9sar_Pelli"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "arquitectura"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "santaolalla-oscar-brokeback-2006",
+  "tipo": "historico",
+  "titulo": "Gustavo Santaolalla gana su primer Oscar",
+  "fecha": "2006-03-05",
+  "rubro": "cultura",
+  "disciplina": "Música",
+  "protagonistas": [
+    "Gustavo Santaolalla"
+  ],
+  "lugar": "Los Ángeles, Estados Unidos",
+  "nivel": 2,
+  "resumen": "El músico ganó el Oscar a la mejor banda sonora por \"Brokeback Mountain\".",
+  "contenido": [
+    "Un año después repitió con \"Babel\" y se convirtió en bicampeón consecutivo del Oscar a la mejor música original."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Gustavo Santaolalla",
+      "url": "https://es.wikipedia.org/wiki/Gustavo_Santaolalla"
+    },
+    {
+      "medio": "Academy of Motion Picture Arts and Sciences",
+      "titulo": "The 2006 Oscars",
+      "url": "https://www.oscars.org/oscars/ceremonies/2006"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "oscar",
+    "música"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "perez-esquivel-nobel-paz-1980",
+  "tipo": "historico",
+  "titulo": "Adolfo Pérez Esquivel, Premio Nobel de la Paz",
+  "fecha": "1980-12-10",
+  "rubro": "sociedad",
+  "disciplina": "Derechos humanos",
+  "protagonistas": [
+    "Adolfo Pérez Esquivel"
+  ],
+  "lugar": "Oslo, Noruega",
+  "nivel": 1,
+  "resumen": "El arquitecto y activista fue distinguido por su defensa de los derechos humanos en América Latina.",
+  "contenido": [
+    "Pérez Esquivel recibió el Nobel de la Paz por su compromiso no violento con los derechos humanos."
+  ],
+  "fuentes": [
+    {
+      "medio": "NobelPrize.org",
+      "titulo": "Adolfo Pérez Esquivel – Facts",
+      "url": "https://www.nobelprize.org/prizes/peace/1980/esquivel/facts/"
+    },
+    {
+      "medio": "Wikipedia",
+      "titulo": "Adolfo Pérez Esquivel",
+      "url": "https://es.wikipedia.org/wiki/Adolfo_P%C3%A9rez_Esquivel"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "nobel"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

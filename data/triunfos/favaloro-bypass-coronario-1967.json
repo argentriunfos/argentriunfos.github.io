@@ -1,0 +1,35 @@
+{
+  "id": "favaloro-bypass-coronario-1967",
+  "tipo": "historico",
+  "titulo": "René Favaloro desarrolla el bypass coronario",
+  "fecha": "1967-05-09",
+  "rubro": "ciencia",
+  "disciplina": "Medicina",
+  "protagonistas": [
+    "René Favaloro"
+  ],
+  "lugar": "Cleveland, Estados Unidos",
+  "nivel": 1,
+  "resumen": "En la Cleveland Clinic, el cirujano argentino sistematizó la técnica del bypass aortocoronario, que salvó millones de vidas.",
+  "contenido": [
+    "René Favaloro, nacido en La Plata, desarrolló y estandarizó la cirugía de revascularización coronaria con vena safena. Luego volvió al país y creó la Fundación Favaloro."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "René Favaloro",
+      "url": "https://es.wikipedia.org/wiki/Ren%C3%A9_Favaloro"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "medicina",
+    "invento"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

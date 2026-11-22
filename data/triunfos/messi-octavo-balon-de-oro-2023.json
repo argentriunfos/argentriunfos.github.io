@@ -1,0 +1,36 @@
+{
+  "id": "messi-octavo-balon-de-oro-2023",
+  "tipo": "historico",
+  "titulo": "Messi gana su octavo Balón de Oro",
+  "fecha": "2023-10-30",
+  "rubro": "deportes",
+  "disciplina": "Fútbol",
+  "protagonistas": [
+    "Lionel Messi",
+    "Emiliano Martínez"
+  ],
+  "lugar": "París, Francia",
+  "nivel": 2,
+  "resumen": "Lionel Messi amplió su récord con un octavo Balón de Oro. Dibu Martínez ganó el Trofeo Yashin al mejor arquero.",
+  "contenido": [
+    "Tras ser campeón del mundo en Qatar, Messi recibió su octavo Balón de Oro, récord absoluto. En la misma gala, Emiliano Martínez fue elegido el mejor arquero del mundo."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Balón de Oro 2023",
+      "url": "https://es.wikipedia.org/wiki/Bal%C3%B3n_de_Oro_2023"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "messi",
+    "balón de oro"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

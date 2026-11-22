@@ -1,0 +1,34 @@
+{
+  "id": "argentina-campeon-finalissima-2022",
+  "tipo": "historico",
+  "titulo": "Finalissima 2022: 3-0 a Italia en Wembley",
+  "fecha": "2022-06-01",
+  "rubro": "deportes",
+  "disciplina": "Fútbol",
+  "protagonistas": [
+    "Selección Argentina"
+  ],
+  "lugar": "Londres, Inglaterra",
+  "nivel": 2,
+  "resumen": "El campeón de América goleó 3-0 al campeón de Europa en Wembley.",
+  "contenido": [
+    "Con goles de Lautaro Martínez, Ángel Di María y Paulo Dybala, Argentina le ganó 3-0 a Italia en la Copa de Campeones Conmebol-UEFA."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia (inglés)",
+      "titulo": "2022 Finalissima",
+      "url": "https://en.wikipedia.org/wiki/2022_Finalissima"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "selección"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

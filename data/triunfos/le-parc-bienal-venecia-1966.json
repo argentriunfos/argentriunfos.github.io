@@ -1,0 +1,34 @@
+{
+  "id": "le-parc-bienal-venecia-1966",
+  "tipo": "historico",
+  "titulo": "Julio Le Parc gana el Gran Premio de la Bienal de Venecia",
+  "fecha": "1966",
+  "rubro": "cultura",
+  "disciplina": "Artes visuales",
+  "protagonistas": [
+    "Julio Le Parc"
+  ],
+  "lugar": "Venecia, Italia",
+  "nivel": 2,
+  "resumen": "El artista mendocino, pionero del arte cinético, ganó el Gran Premio de Pintura de la Bienal de Venecia.",
+  "contenido": [
+    "Le Parc, figura central del arte óptico y cinético, se impuso en uno de los certámenes de arte más importantes del mundo."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Julio Le Parc",
+      "url": "https://es.wikipedia.org/wiki/Julio_Le_Parc"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "arte"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

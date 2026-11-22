@@ -1,0 +1,35 @@
+{
+  "id": "cassiraga-campeon-mundial-pokemon-tcg-2017",
+  "tipo": "historico",
+  "titulo": "Diego Cassiraga, campeón mundial de Pokémon TCG",
+  "fecha": "2017-08",
+  "rubro": "esports",
+  "disciplina": "Pokémon TCG",
+  "protagonistas": [
+    "Diego Cassiraga"
+  ],
+  "lugar": "Anaheim, Estados Unidos",
+  "nivel": 3,
+  "resumen": "El argentino ganó el Campeonato Mundial de Pokémon en la categoría Masters del juego de cartas.",
+  "contenido": [
+    "Diego Cassiraga se consagró campeón del mundo de Pokémon TCG en Anaheim, el mayor logro argentino en la historia del juego competitivo de cartas."
+  ],
+  "fuentes": [
+    {
+      "medio": "Cultura Geek",
+      "titulo": "El argentino Diego Cassiraga logró el subcampeonato del mundial de cartas Pokémon",
+      "url": "https://culturageek.com.ar/el-argentino-diego-cassiraga-logro-el-subcampeonato-del-mundial-de-cartas-pokemon/"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "pokémon",
+    "cartas"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

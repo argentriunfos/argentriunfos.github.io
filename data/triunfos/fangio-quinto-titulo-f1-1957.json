@@ -1,0 +1,39 @@
+{
+  "id": "fangio-quinto-titulo-f1-1957",
+  "tipo": "historico",
+  "titulo": "Fangio, pentacampeón mundial de Fórmula 1",
+  "fecha": "1957-08-04",
+  "rubro": "deportes",
+  "disciplina": "Automovilismo",
+  "protagonistas": [
+    "Juan Manuel Fangio"
+  ],
+  "lugar": "Nürburgring, Alemania",
+  "nivel": 1,
+  "resumen": "Con su legendaria remontada en Nürburgring, Fangio aseguró su quinto título mundial de F1.",
+  "contenido": [
+    "Juan Manuel Fangio fue campeón mundial en 1951, 1954, 1955, 1956 y 1957. En el Gran Premio de Alemania de 1957 remontó casi un minuto de desventaja, batió el récord de vuelta una y otra vez y ganó la carrera que le dio el quinto campeonato, récord que se mantuvo durante 46 años."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Juan Manuel Fangio",
+      "url": "https://es.wikipedia.org/wiki/Juan_Manuel_Fangio"
+    },
+    {
+      "medio": "Wikipedia",
+      "titulo": "Gran Premio de Alemania de 1957",
+      "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Alemania_de_1957"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "fórmula 1"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

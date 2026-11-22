@@ -1,0 +1,37 @@
+{
+  "id": "oro-olimpico-futbol-atenas-2004",
+  "tipo": "historico",
+  "titulo": "Primer oro olímpico en fútbol: Atenas 2004",
+  "fecha": "2004-08-28",
+  "rubro": "deportes",
+  "disciplina": "Fútbol",
+  "protagonistas": [
+    "Selección Argentina Sub-23",
+    "Carlos Tevez",
+    "Marcelo Bielsa"
+  ],
+  "lugar": "Atenas, Grecia",
+  "nivel": 1,
+  "resumen": "El equipo de Bielsa ganó la medalla de oro sin recibir goles en todo el torneo.",
+  "contenido": [
+    "Argentina venció 1-0 a Paraguay en la final con gol de Carlos Tevez, goleador del torneo. Fue la primera medalla de oro olímpica para el país desde 1952."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Fútbol en los Juegos Olímpicos de Atenas 2004",
+      "url": "https://es.wikipedia.org/wiki/F%C3%BAtbol_en_los_Juegos_Ol%C3%ADmpicos_de_Atenas_2004"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "juegos olímpicos",
+    "oro"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

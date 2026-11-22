@@ -1,0 +1,36 @@
+{
+  "id": "arsat-1-lanzamiento-2014",
+  "tipo": "historico",
+  "titulo": "ARSAT-1, primer satélite geoestacionario argentino",
+  "fecha": "2014-10-16",
+  "rubro": "tecnologia",
+  "disciplina": "Industria espacial",
+  "protagonistas": [
+    "ARSAT",
+    "INVAP"
+  ],
+  "lugar": "Kourou, Guayana Francesa",
+  "nivel": 2,
+  "resumen": "Argentina se convirtió en uno de los pocos países capaces de fabricar satélites geoestacionarios de telecomunicaciones.",
+  "contenido": [
+    "Diseñado y construido por INVAP en Bariloche, ARSAT-1 fue lanzado con éxito y puso al país en un club muy selecto de la industria espacial."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "ARSAT-1",
+      "url": "https://es.wikipedia.org/wiki/ARSAT-1"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "satélite",
+    "invap"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "monzon-campeon-mundial-1970",
+  "tipo": "historico",
+  "titulo": "Carlos Monzón, campeón mundial mediano",
+  "fecha": "1970-11-07",
+  "rubro": "deportes",
+  "disciplina": "Boxeo",
+  "protagonistas": [
+    "Carlos Monzón"
+  ],
+  "lugar": "Roma, Italia",
+  "nivel": 2,
+  "resumen": "Monzón noqueó a Nino Benvenuti en Roma y se consagró campeón mundial de los medianos.",
+  "contenido": [
+    "Carlos Monzón ganó el título en el Palazzetto dello Sport de Roma y lo defendió 14 veces, retirándose como campeón invicto en la división."
+  ],
+  "fuentes": [
+    {
+      "medio": "Wikipedia",
+      "titulo": "Carlos Monzón",
+      "url": "https://es.wikipedia.org/wiki/Carlos_Monz%C3%B3n"
+    }
+  ],
+  "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+  },
+  "etiquetas": [
+    "boxeo",
+    "título mundial"
+  ],
+  "publicado": "2026-11-22",
+  "imagen": null
+}
