@@ -2,7 +2,7 @@
 
 El registro verificado de los triunfos de los argentinos en el mundo.
 
-**Web:** https://lacavalorenzo.github.io/argentriunfos/
+**Web:** https://argentriunfos.github.io/
 
 ## Cómo funciona
 
