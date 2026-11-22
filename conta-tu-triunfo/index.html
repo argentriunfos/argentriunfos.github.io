@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contá tu triunfo | Argentriunfos</title>
+<meta name="description" content="Contanos el triunfo de un argentino o argentina. Lo verificamos y lo publicamos.">
+<link rel="canonical" href="https://argentriunfos.github.io/conta-tu-triunfo/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Contá tu triunfo | Argentriunfos">
+<meta property="og:description" content="Contanos el triunfo de un argentino o argentina. Lo verificamos y lo publicamos.">
+<meta property="og:url" content="https://argentriunfos.github.io/conta-tu-triunfo/">
+<meta property="og:site_name" content="Argentriunfos">
+<meta property="og:image" content="https://argentriunfos.github.io/assets/og.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#141210">
+<link rel="icon" href="/assets/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="alternate" type="application/rss+xml" title="Argentriunfos" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rye&family=Bitter:ital,wght@0,400;0,600;0,800;1,400&family=Yesteryear&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/style.css">
+
+</head>
+<body>
+<header class="top">
+  <a class="logo" href="/"><img src="/assets/logo-128.webp" alt="" width="48" height="48"><span>Argentriunfos</span></a>
+  <nav>
+    <a href="/noticias/">Noticias</a>
+    <a href="/archivo/">Archivo</a>
+    <a href="/sobre/">Cómo verificamos</a>
+    <a class="nav-contar" href="/conta-tu-triunfo/">Contá tu triunfo</a>
+  </nav>
+</header>
+<div class="franjas" aria-hidden="true"></div>
+<main>
+
+
+<section class="cabecera">
+  <p class="refran refran-chico">Las mejores historias no siempre salen en la tele</p>
+  <h1 class="letras">Contá tu triunfo</h1>
+  <p>Ganaste un torneo, una beca, un premio, un concurso. O lo ganó tu vieja, tu amigo, tu club o tu escuela. Contanos y, después de verificarlo, lo publicamos en la web y en nuestras redes.</p>
+  <img class="guarda guarda-cabecera" src="/assets/filete-guarda.svg" alt="" aria-hidden="true">
+</section>
+<section class="bloque">
+  <form class="formulario marco" id="form-triunfo" data-accion="" data-campos="{}" data-respaldo="https://www.instagram.com/argentriunfos.ok/">
+    <img class="esq esq-tl" src="/assets/filete-esquina.svg" alt="" aria-hidden="true"><img class="esq esq-tr" src="/assets/filete-esquina.svg" alt="" aria-hidden="true"><img class="esq esq-bl" src="/assets/filete-esquina.svg" alt="" aria-hidden="true"><img class="esq esq-br" src="/assets/filete-esquina.svg" alt="" aria-hidden="true">
+    <fieldset>
+      <legend>El triunfo</legend>
+      <label>¿Quién ganó? *<input name="protagonista" required placeholder="Nombre de la persona, equipo o institución"></label>
+      <label>¿Qué ganó? *<input name="triunfo" required placeholder="Ej.: campeón sudamericano de ajedrez sub-14"></label>
+      <div class="fila">
+        <label>Rubro<select name="rubro"><option value="Deportes">Deportes</option><option value="Ciencia y medicina">Ciencia y medicina</option><option value="Cultura y arte">Cultura y arte</option><option value="Tecnología">Tecnología</option><option value="Esports y juegos">Esports y juegos</option><option value="Educación">Educación</option><option value="Gastronomía">Gastronomía</option><option value="Sociedad y paz">Sociedad y paz</option><option value="Otro">Otro</option></select></label>
+        <label>¿Cuándo?<input name="fecha" placeholder="Fecha aproximada"></label>
+        <label>¿Dónde?<input name="lugar" placeholder="Ciudad, país o evento"></label>
+      </div>
+      <label>Contanos la historia *<textarea name="historia" required rows="6" placeholder="¿Cómo fue? ¿Qué costó llegar? ¿Por qué es importante?"></textarea></label>
+      <label>Un link que lo pruebe<input name="link" type="url" placeholder="Nota, resultado oficial, publicación del torneo…"></label>
+      <p class="ayuda">Si no tenés un link, no pasa nada: te contactamos para verificarlo.</p>
+    </fieldset>
+    <fieldset>
+      <legend>Vos</legend>
+      <div class="fila">
+        <label>Tu nombre *<input name="nombre" required autocomplete="name"></label>
+        <label>¿Cómo te contactamos? *<input name="contacto" required placeholder="Email, WhatsApp o Instagram"></label>
+      </div>
+      <label class="check"><input type="checkbox" name="autorizo" value="Sí" required> Autorizo a Argentriunfos a contactarme para verificar la historia y a publicarla. Mis datos de contacto no se publican.</label>
+    </fieldset>
+    <button type="submit" class="boton-contar"><span>Enviar mi triunfo</span></button>
+    <p class="form-estado" id="form-estado" role="status"></p>
+  </form>
+</section>
+</main>
+<footer class="pie">
+  <div class="franjas" aria-hidden="true"></div>
+  <div class="pie-marco">
+    <img class="esq esq-tl" src="/assets/filete-esquina.svg" alt="" aria-hidden="true"><img class="esq esq-tr" src="/assets/filete-esquina.svg" alt="" aria-hidden="true"><img class="esq esq-bl" src="/assets/filete-esquina.svg" alt="" aria-hidden="true"><img class="esq esq-br" src="/assets/filete-esquina.svg" alt="" aria-hidden="true">
+    <p class="refran">Lo que gana uno, lo festejamos todos</p>
+    <img class="guarda " src="/assets/filete-guarda.svg" alt="" aria-hidden="true">
+    <div class="pie-inner">
+      <div class="pie-marca"><img src="/assets/logo-128.webp" alt="Logo de Argentriunfos" width="88" height="88"><div><strong>Argentriunfos</strong><span>Los triunfos argentinos, verificados.</span></div></div>
+      <div class="pie-links">
+        <b>Rubros</b>
+        <a href="/rubro/deportes/">Deportes</a>
+        <a href="/rubro/ciencia/">Ciencia y medicina</a>
+        <a href="/rubro/cultura/">Cultura y arte</a>
+        <a href="/rubro/tecnologia/">Tecnología</a>
+        <a href="/rubro/esports/">Esports y juegos</a>
+        <a href="/rubro/educacion/">Educación</a>
+        <a href="/rubro/gastronomia/">Gastronomía</a>
+        <a href="/rubro/sociedad/">Sociedad y paz</a>
+      </div>
+      <div class="pie-links">
+        <b>El sitio</b>
+        <a href="/conta-tu-triunfo/">Contá tu triunfo</a>
+        <a href="/archivo/">Archivo completo</a>
+        <a href="/sobre/">Cómo verificamos</a>
+        <a href="/feed.xml">RSS</a>
+        <a href="/triunfos.json">Datos abiertos</a>
+        <a href="https://www.instagram.com/argentriunfos.ok/" rel="me noopener" target="_blank">Instagram</a>
+      </div>
+    </div>
+    <p class="legal">Cada triunfo publicado tiene fuentes verificables. ¿Viste un error? Escribinos y lo corregimos.</p>
+  </div>
+</footer>
+<script src="/assets/app.js" defer></script>
+</body>
+</html>

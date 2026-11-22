@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://argentriunfos.github.io/sitemap.xml

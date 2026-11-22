@@ -1,0 +1,2038 @@
+{
+ "generado": "2026-11-22T14:47:42.224Z",
+ "total": 53,
+ "triunfos": [
+  {
+   "id": "cassiraga-subcampeon-mundial-pokemon-2026",
+   "tipo": "noticia",
+   "titulo": "Diego Cassiraga, subcampeón del mundo de Pokémon TCG",
+   "fecha": "2026-08-30",
+   "rubro": "esports",
+   "disciplina": "Pokémon TCG",
+   "protagonistas": [
+    "Diego Cassiraga"
+   ],
+   "lugar": "San Francisco, Estados Unidos",
+   "nivel": 3,
+   "resumen": "Nueve años después de ser campeón mundial, el argentino volvió a jugar la final del Mundial de Pokémon TCG.",
+   "contenido": [
+    "Con un mazo de Alakazam y Dudunsparce y un récord de 12 victorias, 1 derrota y 2 empates en la fase suiza, Cassiraga llegó a la final de Masters del Pokémon World Championship 2026 en San Francisco, donde cayó ante el estadounidense Andrew Hedrick.",
+    "Un podio mundial que confirma que el argentino es uno de los mejores jugadores del planeta."
+   ],
+   "fuentes": [
+    {
+     "medio": "Cultura Geek",
+     "titulo": "El argentino Diego Cassiraga logró el subcampeonato del mundial de cartas Pokémon",
+     "url": "https://culturageek.com.ar/el-argentino-diego-cassiraga-logro-el-subcampeonato-del-mundial-de-cartas-pokemon/"
+    },
+    {
+     "medio": "LevelUp",
+     "titulo": "Pokémon World Championships 2026: el argentino Diego Cassiraga pierde la final de Pokémon TCG ante Andrew Hedrick",
+     "url": "https://www.levelup.com/noticias/pokemon-world-championships-2026-el-argentino-diego-cassiraga-pierde-la-final-de-pokemon-tcg-ante-andrew-hedrick/"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Confirmado en dos medios independientes."
+   },
+   "etiquetas": [
+    "pokémon",
+    "cartas"
+   ],
+   "publicado": "2026-08-31",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/cassiraga-subcampeon-mundial-pokemon-2026/"
+  },
+  {
+   "id": "leonas-campeonas-mundiales-2026",
+   "tipo": "noticia",
+   "titulo": "¡Las Leonas son tricampeonas del mundo!",
+   "fecha": "2026-08-29",
+   "rubro": "deportes",
+   "disciplina": "Hockey sobre césped",
+   "protagonistas": [
+    "Las Leonas",
+    "Cristina Cosentino",
+    "María José Granatto",
+    "Sofía Cairo",
+    "Fernando Ferrara"
+   ],
+   "lugar": "Países Bajos",
+   "nivel": 1,
+   "resumen": "En suelo neerlandés y ante Países Bajos, Las Leonas ganaron 3-1 por penales y conquistaron su tercera estrella.",
+   "contenido": [
+    "La final terminó 1-1: Yibbi Jansen abrió el marcador para Países Bajos y María José Granatto empató a seis minutos del final.",
+    "En los penales apareció Cristina \"China\" Cosentino, que atajó tres, y Sofía Cairo convirtió el penal decisivo. Argentina terminó con la racha de tres mundiales seguidos de Países Bajos y sumó su tercer título, después de Perth 2002 y Rosario 2010."
+   ],
+   "fuentes": [
+    {
+     "medio": "Perfil",
+     "titulo": "Hazaña: Las Leonas sumaron la tercera estrella, por penales y ante Países Bajos",
+     "url": "https://www.perfil.com/noticias/deportes/hazana-las-leonas-sumaron-la-tercera-estrella-por-penales-y-ante-paises-bajos.phtml"
+    },
+    {
+     "medio": "Tiempo Argentino",
+     "titulo": "Épico: Las Leonas también tienen su tercera estrella",
+     "url": "https://www.tiempoar.com.ar/ta_article/epico-las-leonas-tambien-tienen-su-tercera-estrella/"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Confirmado en dos medios independientes."
+   },
+   "etiquetas": [
+    "las leonas",
+    "mundial"
+   ],
+   "publicado": "2026-08-30",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/leonas-campeonas-mundiales-2026/"
+  },
+  {
+   "id": "argentina-campeon-copa-america-2024",
+   "tipo": "historico",
+   "titulo": "Copa América 2024: bicampeones de América",
+   "fecha": "2024-07-14",
+   "rubro": "deportes",
+   "disciplina": "Fútbol",
+   "protagonistas": [
+    "Selección Argentina",
+    "Lautaro Martínez"
+   ],
+   "lugar": "Miami, Estados Unidos",
+   "nivel": 2,
+   "resumen": "Con gol de Lautaro Martínez en el alargue, Argentina venció 1-0 a Colombia y retuvo la Copa América.",
+   "contenido": [
+    "La Selección consiguió su 16.ª Copa América, récord absoluto, y su tercer título consecutivo entre Copa América, Finalissima y Mundial. Fue la despedida de Ángel Di María de la Selección."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Copa América 2024",
+     "url": "https://es.wikipedia.org/wiki/Copa_Am%C3%A9rica_2024"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "copa américa",
+    "selección"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/argentina-campeon-copa-america-2024/"
+  },
+  {
+   "id": "messi-octavo-balon-de-oro-2023",
+   "tipo": "historico",
+   "titulo": "Messi gana su octavo Balón de Oro",
+   "fecha": "2023-10-30",
+   "rubro": "deportes",
+   "disciplina": "Fútbol",
+   "protagonistas": [
+    "Lionel Messi",
+    "Emiliano Martínez"
+   ],
+   "lugar": "París, Francia",
+   "nivel": 2,
+   "resumen": "Lionel Messi amplió su récord con un octavo Balón de Oro. Dibu Martínez ganó el Trofeo Yashin al mejor arquero.",
+   "contenido": [
+    "Tras ser campeón del mundo en Qatar, Messi recibió su octavo Balón de Oro, récord absoluto. En la misma gala, Emiliano Martínez fue elegido el mejor arquero del mundo."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Balón de Oro 2023",
+     "url": "https://es.wikipedia.org/wiki/Bal%C3%B3n_de_Oro_2023"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "messi",
+    "balón de oro"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/messi-octavo-balon-de-oro-2023/"
+  },
+  {
+   "id": "argentina-1985-globo-de-oro-2023",
+   "tipo": "historico",
+   "titulo": "\"Argentina, 1985\" gana el Globo de Oro",
+   "fecha": "2023-01-10",
+   "rubro": "cultura",
+   "disciplina": "Cine",
+   "protagonistas": [
+    "Santiago Mitre",
+    "Ricardo Darín",
+    "Peter Lanzani"
+   ],
+   "lugar": "Los Ángeles, Estados Unidos",
+   "nivel": 2,
+   "resumen": "La película de Santiago Mitre sobre el Juicio a las Juntas ganó el Globo de Oro a la mejor película de habla no inglesa.",
+   "contenido": [
+    "Además fue nominada al Oscar y ganó el Goya a la mejor película iberoamericana."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Argentina, 1985",
+     "url": "https://es.wikipedia.org/wiki/Argentina,_1985"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "cine",
+    "globo de oro"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/argentina-1985-globo-de-oro-2023/"
+  },
+  {
+   "id": "argentina-campeon-mundial-2022",
+   "tipo": "historico",
+   "titulo": "Qatar 2022: Messi levanta la tercera estrella",
+   "fecha": "2022-12-18",
+   "rubro": "deportes",
+   "disciplina": "Fútbol",
+   "protagonistas": [
+    "Selección Argentina",
+    "Lionel Messi",
+    "Lionel Scaloni",
+    "Emiliano Martínez"
+   ],
+   "lugar": "Lusail, Qatar",
+   "nivel": 1,
+   "resumen": "Tras un 3-3 épico ante Francia, Argentina ganó 4-2 por penales y se consagró tricampeona del mundo.",
+   "contenido": [
+    "En una de las finales más dramáticas de la historia, Argentina empató 3-3 con Francia (doblete de Messi y gol de Di María) y se impuso 4-2 en la tanda de penales, con atajada de Emiliano \"Dibu\" Martínez y el penal decisivo de Gonzalo Montiel.",
+    "Lionel Messi fue elegido mejor jugador del torneo y cumplió el sueño de todo un país."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Final de la Copa Mundial de Fútbol de 2022",
+     "url": "https://es.wikipedia.org/wiki/Final_de_la_Copa_Mundial_de_F%C3%BAtbol_de_2022"
+    },
+    {
+     "medio": "Wikipedia",
+     "titulo": "Copa Mundial de Fútbol de 2022",
+     "url": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2022"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "mundial",
+    "selección",
+    "messi"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/argentina-campeon-mundial-2022/"
+  },
+  {
+   "id": "argentina-campeon-finalissima-2022",
+   "tipo": "historico",
+   "titulo": "Finalissima 2022: 3-0 a Italia en Wembley",
+   "fecha": "2022-06-01",
+   "rubro": "deportes",
+   "disciplina": "Fútbol",
+   "protagonistas": [
+    "Selección Argentina"
+   ],
+   "lugar": "Londres, Inglaterra",
+   "nivel": 2,
+   "resumen": "El campeón de América goleó 3-0 al campeón de Europa en Wembley.",
+   "contenido": [
+    "Con goles de Lautaro Martínez, Ángel Di María y Paulo Dybala, Argentina le ganó 3-0 a Italia en la Copa de Campeones Conmebol-UEFA."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia (inglés)",
+     "titulo": "2022 Finalissima",
+     "url": "https://en.wikipedia.org/wiki/2022_Finalissima"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "selección"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/argentina-campeon-finalissima-2022/"
+  },
+  {
+   "id": "voley-bronce-olimpico-tokio-2020",
+   "tipo": "historico",
+   "titulo": "Bronce olímpico para el vóley en Tokio",
+   "fecha": "2021-08-07",
+   "rubro": "deportes",
+   "disciplina": "Vóley",
+   "protagonistas": [
+    "Selección Argentina de vóley masculino",
+    "Marcelo Méndez"
+   ],
+   "lugar": "Tokio, Japón",
+   "nivel": 3,
+   "resumen": "Argentina venció 3-2 a Brasil y ganó la medalla de bronce en los Juegos de Tokio 2020.",
+   "contenido": [
+    "Fue la segunda medalla olímpica del vóley argentino, después del bronce de Seúl 1988."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Voleibol en los Juegos Olímpicos de Tokio 2020",
+     "url": "https://es.wikipedia.org/wiki/Voleibol_en_los_Juegos_Ol%C3%ADmpicos_de_Tokio_2020"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "juegos olímpicos",
+    "bronce"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/voley-bronce-olimpico-tokio-2020/"
+  },
+  {
+   "id": "argentina-campeon-copa-america-2021",
+   "tipo": "historico",
+   "titulo": "Copa América 2021: campeones en el Maracaná",
+   "fecha": "2021-07-10",
+   "rubro": "deportes",
+   "disciplina": "Fútbol",
+   "protagonistas": [
+    "Selección Argentina",
+    "Ángel Di María",
+    "Lionel Messi"
+   ],
+   "lugar": "Río de Janeiro, Brasil",
+   "nivel": 2,
+   "resumen": "Con un golazo de Di María, Argentina le ganó 1-0 a Brasil en el Maracaná y cortó 28 años sin títulos.",
+   "contenido": [
+    "La Selección de Lionel Scaloni venció a Brasil en su casa con un gol de Ángel Di María y conquistó la Copa América, el primer título mayor de Messi con la camiseta argentina."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Copa América 2021",
+     "url": "https://es.wikipedia.org/wiki/Copa_Am%C3%A9rica_2021"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "copa américa",
+    "selección"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/argentina-campeon-copa-america-2021/"
+  },
+  {
+   "id": "colagreco-mirazur-mejor-restaurante-2019",
+   "tipo": "historico",
+   "titulo": "Mirazur, de Mauro Colagreco, mejor restaurante del mundo",
+   "fecha": "2019-06-25",
+   "rubro": "gastronomia",
+   "disciplina": "Alta cocina",
+   "protagonistas": [
+    "Mauro Colagreco"
+   ],
+   "lugar": "Singapur",
+   "nivel": 2,
+   "resumen": "El restaurante del chef platense en Menton, Francia, fue elegido número uno en The World's 50 Best Restaurants.",
+   "contenido": [
+    "Ese mismo año Mirazur obtuvo además su tercera estrella Michelin. Colagreco es uno de los chefs más reconocidos del planeta."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Mauro Colagreco",
+     "url": "https://es.wikipedia.org/wiki/Mauro_Colagreco"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "chef",
+    "restaurante"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/colagreco-mirazur-mejor-restaurante-2019/"
+  },
+  {
+   "id": "cassiraga-campeon-mundial-pokemon-tcg-2017",
+   "tipo": "historico",
+   "titulo": "Diego Cassiraga, campeón mundial de Pokémon TCG",
+   "fecha": "2017-08",
+   "rubro": "esports",
+   "disciplina": "Pokémon TCG",
+   "protagonistas": [
+    "Diego Cassiraga"
+   ],
+   "lugar": "Anaheim, Estados Unidos",
+   "nivel": 3,
+   "resumen": "El argentino ganó el Campeonato Mundial de Pokémon en la categoría Masters del juego de cartas.",
+   "contenido": [
+    "Diego Cassiraga se consagró campeón del mundo de Pokémon TCG en Anaheim, el mayor logro argentino en la historia del juego competitivo de cartas."
+   ],
+   "fuentes": [
+    {
+     "medio": "Cultura Geek",
+     "titulo": "El argentino Diego Cassiraga logró el subcampeonato del mundial de cartas Pokémon",
+     "url": "https://culturageek.com.ar/el-argentino-diego-cassiraga-logro-el-subcampeonato-del-mundial-de-cartas-pokemon/"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "pokémon",
+    "cartas"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/cassiraga-campeon-mundial-pokemon-tcg-2017/"
+  },
+  {
+   "id": "argentina-campeon-copa-davis-2016",
+   "tipo": "historico",
+   "titulo": "Argentina gana su primera Copa Davis",
+   "fecha": "2016-11-27",
+   "rubro": "deportes",
+   "disciplina": "Tenis",
+   "protagonistas": [
+    "Equipo argentino de Copa Davis",
+    "Juan Martín del Potro",
+    "Federico Delbonis",
+    "Daniel Orsanic"
+   ],
+   "lugar": "Zagreb, Croacia",
+   "nivel": 1,
+   "resumen": "Tras cuatro finales perdidas, Argentina venció 3-2 a Croacia de visitante y ganó la \"Ensaladera\".",
+   "contenido": [
+    "Del Potro remontó dos sets ante Marin Čilić y Federico Delbonis ganó el punto decisivo frente a Ivo Karlović, para el primer título de Copa Davis del país."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Copa Davis 2016",
+     "url": "https://es.wikipedia.org/wiki/Copa_Davis_2016"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "tenis",
+    "copa davis"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/argentina-campeon-copa-davis-2016/"
+  },
+  {
+   "id": "leones-oro-olimpico-rio-2016",
+   "tipo": "historico",
+   "titulo": "Los Leones, campeones olímpicos en Río",
+   "fecha": "2016-08-18",
+   "rubro": "deportes",
+   "disciplina": "Hockey sobre césped",
+   "protagonistas": [
+    "Los Leones",
+    "Carlos Retegui"
+   ],
+   "lugar": "Río de Janeiro, Brasil",
+   "nivel": 1,
+   "resumen": "La Selección masculina de hockey venció 4-2 a Bélgica y ganó un histórico oro olímpico.",
+   "contenido": [
+    "Los Leones, dirigidos por Carlos \"Chapa\" Retegui, lograron la primera medalla de oro olímpica del hockey argentino."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Hockey sobre hierba en los Juegos Olímpicos de Río de Janeiro 2016",
+     "url": "https://es.wikipedia.org/wiki/Hockey_sobre_hierba_en_los_Juegos_Ol%C3%ADmpicos_de_R%C3%ADo_de_Janeiro_2016"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "juegos olímpicos",
+    "oro"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/leones-oro-olimpico-rio-2016/"
+  },
+  {
+   "id": "lange-carranza-oro-olimpico-rio-2016",
+   "tipo": "historico",
+   "titulo": "Lange y Carranza, oro olímpico en vela",
+   "fecha": "2016-08-16",
+   "rubro": "deportes",
+   "disciplina": "Vela",
+   "protagonistas": [
+    "Santiago Lange",
+    "Cecilia Carranza Saroli"
+   ],
+   "lugar": "Río de Janeiro, Brasil",
+   "nivel": 1,
+   "resumen": "Un año después de superar un cáncer de pulmón, Santiago Lange ganó el oro en Nacra 17 junto a Cecilia Carranza.",
+   "contenido": [
+    "Con 54 años, Lange se convirtió en uno de los campeones olímpicos más longevos, en una historia de superación que conmovió al mundo."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Santiago Lange",
+     "url": "https://es.wikipedia.org/wiki/Santiago_Lange"
+    },
+    {
+     "medio": "Wikipedia",
+     "titulo": "Cecilia Carranza Saroli",
+     "url": "https://es.wikipedia.org/wiki/Cecilia_Carranza_Saroli"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "juegos olímpicos",
+    "oro"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/lange-carranza-oro-olimpico-rio-2016/"
+  },
+  {
+   "id": "pareto-oro-olimpico-rio-2016",
+   "tipo": "historico",
+   "titulo": "Paula Pareto, oro olímpico en judo",
+   "fecha": "2016-08-06",
+   "rubro": "deportes",
+   "disciplina": "Judo",
+   "protagonistas": [
+    "Paula Pareto"
+   ],
+   "lugar": "Río de Janeiro, Brasil",
+   "nivel": 1,
+   "resumen": "\"La Peque\" ganó el oro en -48 kg y se convirtió en la primera mujer argentina campeona olímpica en un deporte individual.",
+   "contenido": [
+    "Médica y judoca, Paula Pareto venció en la final a la surcoreana Jeong Bo-kyeong y se colgó la medalla dorada, después del bronce que había conseguido en Beijing 2008."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Paula Pareto",
+     "url": "https://es.wikipedia.org/wiki/Paula_Pareto"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "juegos olímpicos",
+    "oro"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/pareto-oro-olimpico-rio-2016/"
+  },
+  {
+   "id": "arsat-1-lanzamiento-2014",
+   "tipo": "historico",
+   "titulo": "ARSAT-1, primer satélite geoestacionario argentino",
+   "fecha": "2014-10-16",
+   "rubro": "tecnologia",
+   "disciplina": "Industria espacial",
+   "protagonistas": [
+    "ARSAT",
+    "INVAP"
+   ],
+   "lugar": "Kourou, Guayana Francesa",
+   "nivel": 2,
+   "resumen": "Argentina se convirtió en uno de los pocos países capaces de fabricar satélites geoestacionarios de telecomunicaciones.",
+   "contenido": [
+    "Diseñado y construido por INVAP en Bariloche, ARSAT-1 fue lanzado con éxito y puso al país en un club muy selecto de la industria espacial."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "ARSAT-1",
+     "url": "https://es.wikipedia.org/wiki/ARSAT-1"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "satélite",
+    "invap"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/arsat-1-lanzamiento-2014/"
+  },
+  {
+   "id": "globant-nyse-2014",
+   "tipo": "historico",
+   "titulo": "Globant debuta en la Bolsa de Nueva York",
+   "fecha": "2014-07-18",
+   "rubro": "tecnologia",
+   "disciplina": "Software",
+   "protagonistas": [
+    "Globant"
+   ],
+   "lugar": "Nueva York, Estados Unidos",
+   "nivel": 3,
+   "resumen": "La empresa de software fundada en La Plata salió a cotizar en la NYSE.",
+   "contenido": [
+    "Globant se transformó en una de las compañías de servicios tecnológicos más grandes del mundo, con presencia en decenas de países."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Globant",
+     "url": "https://es.wikipedia.org/wiki/Globant"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "empresa",
+    "software"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/globant-nyse-2014/"
+  },
+  {
+   "id": "quino-premio-principe-asturias-2014",
+   "tipo": "historico",
+   "titulo": "Quino, Premio Príncipe de Asturias",
+   "fecha": "2014",
+   "rubro": "cultura",
+   "disciplina": "Historieta",
+   "protagonistas": [
+    "Joaquín Salvador Lavado (Quino)"
+   ],
+   "lugar": "Oviedo, España",
+   "nivel": 2,
+   "resumen": "El creador de Mafalda recibió el Premio Príncipe de Asturias de Comunicación y Humanidades.",
+   "contenido": [
+    "Mafalda, traducida a decenas de idiomas, es uno de los personajes argentinos más conocidos del mundo."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Quino",
+     "url": "https://es.wikipedia.org/wiki/Quino"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "historieta",
+    "mafalda"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/quino-premio-principe-asturias-2014/"
+  },
+  {
+   "id": "bergoglio-papa-francisco-2013",
+   "tipo": "historico",
+   "titulo": "Jorge Bergoglio, primer papa latinoamericano",
+   "fecha": "2013-03-13",
+   "rubro": "sociedad",
+   "disciplina": "Religión",
+   "protagonistas": [
+    "Jorge Mario Bergoglio (Francisco)"
+   ],
+   "lugar": "Ciudad del Vaticano",
+   "nivel": 2,
+   "resumen": "El arzobispo de Buenos Aires fue elegido papa y adoptó el nombre de Francisco.",
+   "contenido": [
+    "Fue el primer papa nacido en América y el primer jesuita en ocupar el cargo, que ejerció hasta su fallecimiento en 2025."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Francisco (papa)",
+     "url": "https://es.wikipedia.org/wiki/Francisco_(papa)"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/bergoglio-papa-francisco-2013/"
+  },
+  {
+   "id": "maldacena-breakthrough-prize-2012",
+   "tipo": "historico",
+   "titulo": "Juan Maldacena gana el Breakthrough Prize de Física",
+   "fecha": "2012-07-31",
+   "rubro": "ciencia",
+   "disciplina": "Física teórica",
+   "protagonistas": [
+    "Juan Martín Maldacena"
+   ],
+   "lugar": "Princeton, Estados Unidos",
+   "nivel": 2,
+   "resumen": "El físico porteño, autor de la conjetura AdS/CFT, fue uno de los ganadores del primer Premio de Física Fundamental.",
+   "contenido": [
+    "Maldacena, investigador del Instituto de Estudios Avanzados de Princeton, es considerado uno de los físicos teóricos más importantes del mundo."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Juan Martín Maldacena",
+     "url": "https://es.wikipedia.org/wiki/Juan_Mart%C3%ADn_Maldacena"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "física"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/maldacena-breakthrough-prize-2012/"
+  },
+  {
+   "id": "leonas-campeonas-mundiales-2010",
+   "tipo": "historico",
+   "titulo": "Las Leonas, bicampeonas del mundo en Rosario",
+   "fecha": "2010-09-11",
+   "rubro": "deportes",
+   "disciplina": "Hockey sobre césped",
+   "protagonistas": [
+    "Las Leonas",
+    "Luciana Aymar"
+   ],
+   "lugar": "Rosario, Argentina",
+   "nivel": 1,
+   "resumen": "De local, Las Leonas vencieron 3-1 a Países Bajos y volvieron a ser campeonas del mundo.",
+   "contenido": [
+    "Ante su gente en Rosario, ciudad natal de Luciana Aymar, Las Leonas ganaron la final 3-1 y sumaron su segunda estrella."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia (inglés)",
+     "titulo": "2010 Women's Hockey World Cup",
+     "url": "https://en.wikipedia.org/wiki/2010_Women's_Hockey_World_Cup"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "las leonas",
+    "mundial"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/leonas-campeonas-mundiales-2010/"
+  },
+  {
+   "id": "el-secreto-de-sus-ojos-oscar-2010",
+   "tipo": "historico",
+   "titulo": "\"El secreto de sus ojos\" gana el Oscar",
+   "fecha": "2010-03-07",
+   "rubro": "cultura",
+   "disciplina": "Cine",
+   "protagonistas": [
+    "Juan José Campanella",
+    "Ricardo Darín",
+    "Soledad Villamil"
+   ],
+   "lugar": "Los Ángeles, Estados Unidos",
+   "nivel": 1,
+   "resumen": "La película de Juan José Campanella le dio a Argentina su segundo Oscar a mejor película extranjera.",
+   "contenido": [
+    "Protagonizada por Ricardo Darín y Soledad Villamil, la película basada en la novela de Eduardo Sacheri se convirtió en un clásico del cine argentino."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "El secreto de sus ojos",
+     "url": "https://es.wikipedia.org/wiki/El_secreto_de_sus_ojos"
+    },
+    {
+     "medio": "Academy of Motion Picture Arts and Sciences",
+     "titulo": "The 2010 Oscars",
+     "url": "https://www.oscars.org/oscars/ceremonies/2010"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "oscar",
+    "cine"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/el-secreto-de-sus-ojos-oscar-2010/"
+  },
+  {
+   "id": "del-potro-us-open-2009",
+   "tipo": "historico",
+   "titulo": "Del Potro le gana a Federer y conquista el US Open",
+   "fecha": "2009-09-14",
+   "rubro": "deportes",
+   "disciplina": "Tenis",
+   "protagonistas": [
+    "Juan Martín del Potro"
+   ],
+   "lugar": "Nueva York, Estados Unidos",
+   "nivel": 2,
+   "resumen": "Con 20 años, \"Delpo\" derrotó a Roger Federer en cinco sets y ganó su primer Grand Slam.",
+   "contenido": [
+    "Juan Martín del Potro venció al suizo, cinco veces campeón consecutivo del torneo, y se consagró en Flushing Meadows."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Juan Martín del Potro",
+     "url": "https://es.wikipedia.org/wiki/Juan_Mart%C3%ADn_del_Potro"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "tenis",
+    "grand slam"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/del-potro-us-open-2009/"
+  },
+  {
+   "id": "oro-olimpico-futbol-beijing-2008",
+   "tipo": "historico",
+   "titulo": "Bicampeones olímpicos en fútbol: Beijing 2008",
+   "fecha": "2008-08-23",
+   "rubro": "deportes",
+   "disciplina": "Fútbol",
+   "protagonistas": [
+    "Selección Argentina Sub-23",
+    "Ángel Di María",
+    "Lionel Messi"
+   ],
+   "lugar": "Pekín, China",
+   "nivel": 1,
+   "resumen": "Con una vaselina de Di María, Argentina venció 1-0 a Nigeria y repitió el oro olímpico.",
+   "contenido": [
+    "El equipo dirigido por Sergio Batista, con Messi, Riquelme, Agüero y Mascherano, retuvo la medalla de oro conseguida en Atenas."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Fútbol en los Juegos Olímpicos de Pekín 2008",
+     "url": "https://es.wikipedia.org/wiki/F%C3%BAtbol_en_los_Juegos_Ol%C3%ADmpicos_de_Pek%C3%ADn_2008"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "juegos olímpicos",
+    "oro"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/oro-olimpico-futbol-beijing-2008/"
+  },
+  {
+   "id": "pumas-bronce-mundial-rugby-2007",
+   "tipo": "historico",
+   "titulo": "Los Pumas, terceros en el Mundial de Rugby",
+   "fecha": "2007-10-19",
+   "rubro": "deportes",
+   "disciplina": "Rugby",
+   "protagonistas": [
+    "Los Pumas",
+    "Agustín Pichot",
+    "Juan Martín Hernández"
+   ],
+   "lugar": "París, Francia",
+   "nivel": 2,
+   "resumen": "Los Pumas vencieron 34-10 al local Francia y se quedaron con el bronce en el Mundial de Rugby.",
+   "contenido": [
+    "En su mejor actuación histórica, Argentina le ganó dos veces a Francia en ese Mundial: en el partido inaugural y en el duelo por el tercer puesto."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Copa Mundial de Rugby de 2007",
+     "url": "https://es.wikipedia.org/wiki/Copa_Mundial_de_Rugby_de_2007"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "rugby",
+    "mundial"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/pumas-bronce-mundial-rugby-2007/"
+  },
+  {
+   "id": "mercadolibre-nasdaq-2007",
+   "tipo": "historico",
+   "titulo": "Mercado Libre sale a cotizar en Nasdaq",
+   "fecha": "2007-08-10",
+   "rubro": "tecnologia",
+   "disciplina": "Emprendimiento",
+   "protagonistas": [
+    "Mercado Libre",
+    "Marcos Galperin"
+   ],
+   "lugar": "Nueva York, Estados Unidos",
+   "nivel": 2,
+   "resumen": "La empresa fundada por Marcos Galperin en 1999 debutó en Nasdaq. Hoy es una de las compañías más valiosas de América Latina.",
+   "contenido": [
+    "Nacida en un garaje de Saavedra, Mercado Libre se convirtió en la mayor plataforma de comercio electrónico de la región."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Mercado Libre",
+     "url": "https://es.wikipedia.org/wiki/Mercado_Libre"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "empresa",
+    "unicornio"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/mercadolibre-nasdaq-2007/"
+  },
+  {
+   "id": "cabrera-us-open-golf-2007",
+   "tipo": "historico",
+   "titulo": "Ángel Cabrera gana el US Open de golf",
+   "fecha": "2007-06-17",
+   "rubro": "deportes",
+   "disciplina": "Golf",
+   "protagonistas": [
+    "Ángel Cabrera"
+   ],
+   "lugar": "Oakmont, Estados Unidos",
+   "nivel": 2,
+   "resumen": "\"El Pato\" Cabrera ganó en Oakmont el primer major del golf argentino moderno.",
+   "contenido": [
+    "Ángel Cabrera superó por un golpe a Tiger Woods y Jim Furyk. En 2009 sumó además el Masters de Augusta."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Ángel Cabrera",
+     "url": "https://es.wikipedia.org/wiki/%C3%81ngel_Cabrera"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "golf"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/cabrera-us-open-golf-2007/"
+  },
+  {
+   "id": "santaolalla-oscar-babel-2007",
+   "tipo": "historico",
+   "titulo": "Santaolalla, bicampeón del Oscar con \"Babel\"",
+   "fecha": "2007-02-25",
+   "rubro": "cultura",
+   "disciplina": "Música",
+   "protagonistas": [
+    "Gustavo Santaolalla"
+   ],
+   "lugar": "Los Ángeles, Estados Unidos",
+   "nivel": 2,
+   "resumen": "Por segundo año consecutivo, Santaolalla ganó el Oscar a la mejor banda sonora original.",
+   "contenido": [
+    "La música de \"Babel\", de Alejandro González Iñárritu, le dio su segunda estatuilla consecutiva."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Gustavo Santaolalla",
+     "url": "https://es.wikipedia.org/wiki/Gustavo_Santaolalla"
+    },
+    {
+     "medio": "Academy of Motion Picture Arts and Sciences",
+     "titulo": "The 2007 Oscars",
+     "url": "https://www.oscars.org/oscars/ceremonies/2007"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "oscar",
+    "música"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/santaolalla-oscar-babel-2007/"
+  },
+  {
+   "id": "santaolalla-oscar-brokeback-2006",
+   "tipo": "historico",
+   "titulo": "Gustavo Santaolalla gana su primer Oscar",
+   "fecha": "2006-03-05",
+   "rubro": "cultura",
+   "disciplina": "Música",
+   "protagonistas": [
+    "Gustavo Santaolalla"
+   ],
+   "lugar": "Los Ángeles, Estados Unidos",
+   "nivel": 2,
+   "resumen": "El músico ganó el Oscar a la mejor banda sonora por \"Brokeback Mountain\".",
+   "contenido": [
+    "Un año después repitió con \"Babel\" y se convirtió en bicampeón consecutivo del Oscar a la mejor música original."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Gustavo Santaolalla",
+     "url": "https://es.wikipedia.org/wiki/Gustavo_Santaolalla"
+    },
+    {
+     "medio": "Academy of Motion Picture Arts and Sciences",
+     "titulo": "The 2006 Oscars",
+     "url": "https://www.oscars.org/oscars/ceremonies/2006"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "oscar",
+    "música"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/santaolalla-oscar-brokeback-2006/"
+  },
+  {
+   "id": "oro-olimpico-basquet-atenas-2004",
+   "tipo": "historico",
+   "titulo": "La Generación Dorada, campeona olímpica",
+   "fecha": "2004-08-28",
+   "rubro": "deportes",
+   "disciplina": "Básquet",
+   "protagonistas": [
+    "Selección Argentina de básquet",
+    "Manu Ginóbili",
+    "Luis Scola",
+    "Rubén Magnano"
+   ],
+   "lugar": "Atenas, Grecia",
+   "nivel": 1,
+   "resumen": "Tras eliminar a Estados Unidos en semifinales, Argentina venció a Italia y ganó el oro olímpico en básquet.",
+   "contenido": [
+    "La Generación Dorada, con Manu Ginóbili como figura, le ganó la semifinal al Dream Team de Estados Unidos y luego derrotó 84-69 a Italia en la final.",
+    "Es uno de los logros colectivos más grandes de la historia del deporte argentino."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Baloncesto en los Juegos Olímpicos de Atenas 2004",
+     "url": "https://es.wikipedia.org/wiki/Baloncesto_en_los_Juegos_Ol%C3%ADmpicos_de_Atenas_2004"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "juegos olímpicos",
+    "oro",
+    "generación dorada"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/oro-olimpico-basquet-atenas-2004/"
+  },
+  {
+   "id": "oro-olimpico-futbol-atenas-2004",
+   "tipo": "historico",
+   "titulo": "Primer oro olímpico en fútbol: Atenas 2004",
+   "fecha": "2004-08-28",
+   "rubro": "deportes",
+   "disciplina": "Fútbol",
+   "protagonistas": [
+    "Selección Argentina Sub-23",
+    "Carlos Tevez",
+    "Marcelo Bielsa"
+   ],
+   "lugar": "Atenas, Grecia",
+   "nivel": 1,
+   "resumen": "El equipo de Bielsa ganó la medalla de oro sin recibir goles en todo el torneo.",
+   "contenido": [
+    "Argentina venció 1-0 a Paraguay en la final con gol de Carlos Tevez, goleador del torneo. Fue la primera medalla de oro olímpica para el país desde 1952."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Fútbol en los Juegos Olímpicos de Atenas 2004",
+     "url": "https://es.wikipedia.org/wiki/F%C3%BAtbol_en_los_Juegos_Ol%C3%ADmpicos_de_Atenas_2004"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "juegos olímpicos",
+    "oro"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/oro-olimpico-futbol-atenas-2004/"
+  },
+  {
+   "id": "gaudio-roland-garros-2004",
+   "tipo": "historico",
+   "titulo": "Gastón Gaudio gana Roland Garros",
+   "fecha": "2004-06-06",
+   "rubro": "deportes",
+   "disciplina": "Tenis",
+   "protagonistas": [
+    "Gastón Gaudio"
+   ],
+   "lugar": "París, Francia",
+   "nivel": 2,
+   "resumen": "En una final 100% argentina, Gaudio remontó dos sets abajo ante Guillermo Coria y levantó la Copa de los Mosqueteros.",
+   "contenido": [
+    "La final de Roland Garros 2004 enfrentó a dos argentinos. Gaudio, que no era favorito, dio vuelta un partido increíble y se quedó con el título."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Gastón Gaudio",
+     "url": "https://es.wikipedia.org/wiki/Gast%C3%B3n_Gaudio"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "tenis",
+    "grand slam"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/gaudio-roland-garros-2004/"
+  },
+  {
+   "id": "ginobili-campeon-nba-2003",
+   "tipo": "historico",
+   "titulo": "Manu Ginóbili, campeón de la NBA",
+   "fecha": "2003-06-15",
+   "rubro": "deportes",
+   "disciplina": "Básquet",
+   "protagonistas": [
+    "Manu Ginóbili"
+   ],
+   "lugar": "San Antonio, Estados Unidos",
+   "nivel": 2,
+   "resumen": "En su primera temporada, Manu ganó el anillo de la NBA con los San Antonio Spurs.",
+   "contenido": [
+    "Fue el primero de sus cuatro títulos de NBA (2003, 2005, 2007 y 2014). En 2022 ingresó al Salón de la Fama del básquet."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Manu Ginóbili",
+     "url": "https://es.wikipedia.org/wiki/Manu_Gin%C3%B3bili"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "nba",
+    "básquet"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/ginobili-campeon-nba-2003/"
+  },
+  {
+   "id": "leonas-campeonas-mundiales-2002",
+   "tipo": "historico",
+   "titulo": "Las Leonas, campeonas del mundo en Perth",
+   "fecha": "2002-12-08",
+   "rubro": "deportes",
+   "disciplina": "Hockey sobre césped",
+   "protagonistas": [
+    "Las Leonas",
+    "Luciana Aymar",
+    "Cecilia Rognoni"
+   ],
+   "lugar": "Perth, Australia",
+   "nivel": 1,
+   "resumen": "La Selección femenina de hockey venció por penales a Países Bajos y ganó su primer Mundial.",
+   "contenido": [
+    "Las Leonas igualaron con Países Bajos en la final y se impusieron en los penales, conquistando el primer título mundial de su historia y dando nacimiento a un mito del deporte argentino."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia (inglés)",
+     "titulo": "2002 Women's Hockey World Cup",
+     "url": "https://en.wikipedia.org/wiki/2002_Women's_Hockey_World_Cup"
+    },
+    {
+     "medio": "ESPN Deportes",
+     "titulo": "Las Leonas son las dueñas del mundo",
+     "url": "https://espndeportes.espn.com/argentina/noticias/campeoleo021208.html"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "las leonas",
+    "mundial"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/leonas-campeonas-mundiales-2002/"
+  },
+  {
+   "id": "pelli-medalla-oro-aia-1995",
+   "tipo": "historico",
+   "titulo": "César Pelli recibe la Medalla de Oro del AIA",
+   "fecha": "1995",
+   "rubro": "cultura",
+   "disciplina": "Arquitectura",
+   "protagonistas": [
+    "César Pelli"
+   ],
+   "lugar": "Estados Unidos",
+   "nivel": 2,
+   "resumen": "El arquitecto tucumano, autor de las Torres Petronas, recibió la máxima distinción del Instituto Americano de Arquitectos.",
+   "contenido": [
+    "Pelli diseñó algunos de los rascacielos más famosos del mundo, como las Torres Petronas de Kuala Lumpur, que fueron los edificios más altos del planeta."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "César Pelli",
+     "url": "https://es.wikipedia.org/wiki/C%C3%A9sar_Pelli"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "arquitectura"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/pelli-medalla-oro-aia-1995/"
+  },
+  {
+   "id": "sabatini-us-open-1990",
+   "tipo": "historico",
+   "titulo": "Gabriela Sabatini, campeona del US Open",
+   "fecha": "1990-09-08",
+   "rubro": "deportes",
+   "disciplina": "Tenis",
+   "protagonistas": [
+    "Gabriela Sabatini"
+   ],
+   "lugar": "Nueva York, Estados Unidos",
+   "nivel": 2,
+   "resumen": "Gaby venció a Steffi Graf en la final y ganó su Grand Slam en Flushing Meadows.",
+   "contenido": [
+    "Gabriela Sabatini derrotó a la número uno del mundo, Steffi Graf, y se convirtió en la primera argentina en ganar un torneo de Grand Slam en singles."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Gabriela Sabatini",
+     "url": "https://es.wikipedia.org/wiki/Gabriela_Sabatini"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "tenis",
+    "grand slam"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/sabatini-us-open-1990/"
+  },
+  {
+   "id": "argentina-campeon-mundial-1986",
+   "tipo": "historico",
+   "titulo": "México 86: la segunda estrella con Maradona",
+   "fecha": "1986-06-29",
+   "rubro": "deportes",
+   "disciplina": "Fútbol",
+   "protagonistas": [
+    "Selección Argentina",
+    "Diego Armando Maradona",
+    "Carlos Bilardo"
+   ],
+   "lugar": "Ciudad de México, México",
+   "nivel": 1,
+   "resumen": "Argentina le ganó 3-2 a Alemania Federal en el Estadio Azteca y se consagró bicampeona del mundo.",
+   "contenido": [
+    "La Selección de Carlos Bilardo, liderada por un Diego Maradona inolvidable, venció 3-2 a Alemania Federal en la final con goles de José Luis Brown, Jorge Valdano y Jorge Burruchaga.",
+    "En ese mismo torneo, Maradona marcó ante Inglaterra el gol elegido como el mejor de la historia de los mundiales."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Copa Mundial de Fútbol de 1986",
+     "url": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_1986"
+    },
+    {
+     "medio": "Wikipedia",
+     "titulo": "Final de la Copa Mundial de Fútbol de 1986",
+     "url": "https://es.wikipedia.org/wiki/Final_de_la_Copa_Mundial_de_F%C3%BAtbol_de_1986"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "mundial",
+    "selección",
+    "maradona"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/argentina-campeon-mundial-1986/"
+  },
+  {
+   "id": "la-historia-oficial-oscar-1986",
+   "tipo": "historico",
+   "titulo": "\"La historia oficial\", primer Oscar para el cine argentino",
+   "fecha": "1986-03-24",
+   "rubro": "cultura",
+   "disciplina": "Cine",
+   "protagonistas": [
+    "Luis Puenzo",
+    "Norma Aleandro"
+   ],
+   "lugar": "Los Ángeles, Estados Unidos",
+   "nivel": 1,
+   "resumen": "La película de Luis Puenzo ganó el Oscar a la mejor película extranjera.",
+   "contenido": [
+    "Fue la primera película latinoamericana en ganar el Oscar en esa categoría. Norma Aleandro fue además premiada como mejor actriz en Cannes."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "La historia oficial",
+     "url": "https://es.wikipedia.org/wiki/La_historia_oficial"
+    },
+    {
+     "medio": "Academy of Motion Picture Arts and Sciences",
+     "titulo": "The 1986 Oscars",
+     "url": "https://www.oscars.org/oscars/ceremonies/1986"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "oscar",
+    "cine"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/la-historia-oficial-oscar-1986/"
+  },
+  {
+   "id": "milstein-nobel-medicina-1984",
+   "tipo": "historico",
+   "titulo": "César Milstein, Premio Nobel de Medicina",
+   "fecha": "1984-12-10",
+   "rubro": "ciencia",
+   "disciplina": "Medicina",
+   "protagonistas": [
+    "César Milstein"
+   ],
+   "lugar": "Estocolmo, Suecia",
+   "nivel": 1,
+   "resumen": "El bahiense Milstein ganó el Nobel por desarrollar la técnica de los anticuerpos monoclonales.",
+   "contenido": [
+    "Su descubrimiento revolucionó el diagnóstico y el tratamiento de enfermedades. Milstein decidió no patentarlo para que estuviera al alcance de todos."
+   ],
+   "fuentes": [
+    {
+     "medio": "NobelPrize.org",
+     "titulo": "César Milstein – Facts",
+     "url": "https://www.nobelprize.org/prizes/medicine/1984/milstein/facts/"
+    },
+    {
+     "medio": "Wikipedia",
+     "titulo": "César Milstein",
+     "url": "https://es.wikipedia.org/wiki/C%C3%A9sar_Milstein"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "nobel"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/milstein-nobel-medicina-1984/"
+  },
+  {
+   "id": "perez-esquivel-nobel-paz-1980",
+   "tipo": "historico",
+   "titulo": "Adolfo Pérez Esquivel, Premio Nobel de la Paz",
+   "fecha": "1980-12-10",
+   "rubro": "sociedad",
+   "disciplina": "Derechos humanos",
+   "protagonistas": [
+    "Adolfo Pérez Esquivel"
+   ],
+   "lugar": "Oslo, Noruega",
+   "nivel": 1,
+   "resumen": "El arquitecto y activista fue distinguido por su defensa de los derechos humanos en América Latina.",
+   "contenido": [
+    "Pérez Esquivel recibió el Nobel de la Paz por su compromiso no violento con los derechos humanos."
+   ],
+   "fuentes": [
+    {
+     "medio": "NobelPrize.org",
+     "titulo": "Adolfo Pérez Esquivel – Facts",
+     "url": "https://www.nobelprize.org/prizes/peace/1980/esquivel/facts/"
+    },
+    {
+     "medio": "Wikipedia",
+     "titulo": "Adolfo Pérez Esquivel",
+     "url": "https://es.wikipedia.org/wiki/Adolfo_P%C3%A9rez_Esquivel"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "nobel"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/perez-esquivel-nobel-paz-1980/"
+  },
+  {
+   "id": "borges-premio-cervantes-1979",
+   "tipo": "historico",
+   "titulo": "Jorge Luis Borges recibe el Premio Cervantes",
+   "fecha": "1979",
+   "rubro": "cultura",
+   "disciplina": "Literatura",
+   "protagonistas": [
+    "Jorge Luis Borges"
+   ],
+   "lugar": "España",
+   "nivel": 2,
+   "resumen": "El autor de \"Ficciones\" y \"El Aleph\" ganó el máximo premio de las letras en español, compartido con Gerardo Diego.",
+   "contenido": [
+    "Borges, uno de los escritores más influyentes del siglo XX, recibió el Cervantes. Más tarde también lo ganarían los argentinos Ernesto Sabato (1984), Adolfo Bioy Casares (1990) y Juan Gelman (2007)."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Jorge Luis Borges",
+     "url": "https://es.wikipedia.org/wiki/Jorge_Luis_Borges"
+    },
+    {
+     "medio": "Wikipedia",
+     "titulo": "Premio Miguel de Cervantes",
+     "url": "https://es.wikipedia.org/wiki/Premio_Miguel_de_Cervantes"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "literatura",
+    "cervantes"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/borges-premio-cervantes-1979/"
+  },
+  {
+   "id": "argentina-campeon-mundial-1978",
+   "tipo": "historico",
+   "titulo": "Argentina, campeona del mundo por primera vez",
+   "fecha": "1978-06-25",
+   "rubro": "deportes",
+   "disciplina": "Fútbol",
+   "protagonistas": [
+    "Selección Argentina",
+    "Mario Kempes",
+    "César Luis Menotti"
+   ],
+   "lugar": "Buenos Aires, Argentina",
+   "nivel": 1,
+   "resumen": "En el Monumental, Argentina venció 3-1 a Países Bajos en tiempo extra y levantó su primera Copa del Mundo.",
+   "contenido": [
+    "Con dos goles de Mario Kempes, goleador del torneo, y uno de Daniel Bertoni, la Selección dirigida por César Luis Menotti derrotó 3-1 a Países Bajos en la final jugada en el estadio Monumental.",
+    "Fue la primera estrella en el escudo de la AFA."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Copa Mundial de Fútbol de 1978",
+     "url": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_1978"
+    },
+    {
+     "medio": "Wikipedia",
+     "titulo": "Final de la Copa Mundial de Fútbol de 1978",
+     "url": "https://es.wikipedia.org/wiki/Final_de_la_Copa_Mundial_de_F%C3%BAtbol_de_1978"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "mundial",
+    "selección"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/argentina-campeon-mundial-1978/"
+  },
+  {
+   "id": "vilas-roland-garros-1977",
+   "tipo": "historico",
+   "titulo": "Guillermo Vilas gana Roland Garros",
+   "fecha": "1977-06-05",
+   "rubro": "deportes",
+   "disciplina": "Tenis",
+   "protagonistas": [
+    "Guillermo Vilas"
+   ],
+   "lugar": "París, Francia",
+   "nivel": 2,
+   "resumen": "Vilas conquistó en París el primer Grand Slam del tenis masculino argentino, en un 1977 histórico.",
+   "contenido": [
+    "Vilas derrotó a Brian Gottfried en la final de Roland Garros. Ese mismo año ganó también el US Open y logró una racha de 46 partidos invicto en polvo de ladrillo. Popularizó el tenis en todo el país."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Guillermo Vilas",
+     "url": "https://es.wikipedia.org/wiki/Guillermo_Vilas"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "tenis",
+    "grand slam"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/vilas-roland-garros-1977/"
+  },
+  {
+   "id": "leloir-nobel-quimica-1970",
+   "tipo": "historico",
+   "titulo": "Luis Federico Leloir, Premio Nobel de Química",
+   "fecha": "1970-12-10",
+   "rubro": "ciencia",
+   "disciplina": "Química",
+   "protagonistas": [
+    "Luis Federico Leloir"
+   ],
+   "lugar": "Estocolmo, Suecia",
+   "nivel": 1,
+   "resumen": "Leloir ganó el Nobel de Química por descubrir los nucleótidos de azúcar y su rol en la biosíntesis de carbohidratos.",
+   "contenido": [
+    "Trabajando con recursos mínimos en Buenos Aires, Leloir hizo descubrimientos fundamentales para la bioquímica. También se le atribuye la invención de la salsa golf."
+   ],
+   "fuentes": [
+    {
+     "medio": "NobelPrize.org",
+     "titulo": "Luis Leloir – Facts",
+     "url": "https://www.nobelprize.org/prizes/chemistry/1970/leloir/facts/"
+    },
+    {
+     "medio": "Wikipedia",
+     "titulo": "Luis Federico Leloir",
+     "url": "https://es.wikipedia.org/wiki/Luis_Federico_Leloir"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "nobel"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/leloir-nobel-quimica-1970/"
+  },
+  {
+   "id": "monzon-campeon-mundial-1970",
+   "tipo": "historico",
+   "titulo": "Carlos Monzón, campeón mundial mediano",
+   "fecha": "1970-11-07",
+   "rubro": "deportes",
+   "disciplina": "Boxeo",
+   "protagonistas": [
+    "Carlos Monzón"
+   ],
+   "lugar": "Roma, Italia",
+   "nivel": 2,
+   "resumen": "Monzón noqueó a Nino Benvenuti en Roma y se consagró campeón mundial de los medianos.",
+   "contenido": [
+    "Carlos Monzón ganó el título en el Palazzetto dello Sport de Roma y lo defendió 14 veces, retirándose como campeón invicto en la división."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Carlos Monzón",
+     "url": "https://es.wikipedia.org/wiki/Carlos_Monz%C3%B3n"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "boxeo",
+    "título mundial"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/monzon-campeon-mundial-1970/"
+  },
+  {
+   "id": "favaloro-bypass-coronario-1967",
+   "tipo": "historico",
+   "titulo": "René Favaloro desarrolla el bypass coronario",
+   "fecha": "1967-05-09",
+   "rubro": "ciencia",
+   "disciplina": "Medicina",
+   "protagonistas": [
+    "René Favaloro"
+   ],
+   "lugar": "Cleveland, Estados Unidos",
+   "nivel": 1,
+   "resumen": "En la Cleveland Clinic, el cirujano argentino sistematizó la técnica del bypass aortocoronario, que salvó millones de vidas.",
+   "contenido": [
+    "René Favaloro, nacido en La Plata, desarrolló y estandarizó la cirugía de revascularización coronaria con vena safena. Luego volvió al país y creó la Fundación Favaloro."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "René Favaloro",
+     "url": "https://es.wikipedia.org/wiki/Ren%C3%A9_Favaloro"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "medicina",
+    "invento"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/favaloro-bypass-coronario-1967/"
+  },
+  {
+   "id": "le-parc-bienal-venecia-1966",
+   "tipo": "historico",
+   "titulo": "Julio Le Parc gana el Gran Premio de la Bienal de Venecia",
+   "fecha": "1966",
+   "rubro": "cultura",
+   "disciplina": "Artes visuales",
+   "protagonistas": [
+    "Julio Le Parc"
+   ],
+   "lugar": "Venecia, Italia",
+   "nivel": 2,
+   "resumen": "El artista mendocino, pionero del arte cinético, ganó el Gran Premio de Pintura de la Bienal de Venecia.",
+   "contenido": [
+    "Le Parc, figura central del arte óptico y cinético, se impuso en uno de los certámenes de arte más importantes del mundo."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Julio Le Parc",
+     "url": "https://es.wikipedia.org/wiki/Julio_Le_Parc"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "arte"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/le-parc-bienal-venecia-1966/"
+  },
+  {
+   "id": "argerich-concurso-chopin-1965",
+   "tipo": "historico",
+   "titulo": "Martha Argerich gana el Concurso Chopin",
+   "fecha": "1965",
+   "rubro": "cultura",
+   "disciplina": "Música clásica",
+   "protagonistas": [
+    "Martha Argerich"
+   ],
+   "lugar": "Varsovia, Polonia",
+   "nivel": 2,
+   "resumen": "La pianista porteña ganó el Concurso Internacional de Piano Federico Chopin, uno de los más prestigiosos del mundo.",
+   "contenido": [
+    "Martha Argerich es considerada una de las más grandes pianistas de la historia."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Martha Argerich",
+     "url": "https://es.wikipedia.org/wiki/Martha_Argerich"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "música",
+    "piano"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/argerich-concurso-chopin-1965/"
+  },
+  {
+   "id": "fangio-quinto-titulo-f1-1957",
+   "tipo": "historico",
+   "titulo": "Fangio, pentacampeón mundial de Fórmula 1",
+   "fecha": "1957-08-04",
+   "rubro": "deportes",
+   "disciplina": "Automovilismo",
+   "protagonistas": [
+    "Juan Manuel Fangio"
+   ],
+   "lugar": "Nürburgring, Alemania",
+   "nivel": 1,
+   "resumen": "Con su legendaria remontada en Nürburgring, Fangio aseguró su quinto título mundial de F1.",
+   "contenido": [
+    "Juan Manuel Fangio fue campeón mundial en 1951, 1954, 1955, 1956 y 1957. En el Gran Premio de Alemania de 1957 remontó casi un minuto de desventaja, batió el récord de vuelta una y otra vez y ganó la carrera que le dio el quinto campeonato, récord que se mantuvo durante 46 años."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Juan Manuel Fangio",
+     "url": "https://es.wikipedia.org/wiki/Juan_Manuel_Fangio"
+    },
+    {
+     "medio": "Wikipedia",
+     "titulo": "Gran Premio de Alemania de 1957",
+     "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Alemania_de_1957"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "fórmula 1"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/fangio-quinto-titulo-f1-1957/"
+  },
+  {
+   "id": "pascual-perez-campeon-mundial-1954",
+   "tipo": "historico",
+   "titulo": "Pascual Pérez, primer campeón mundial del boxeo argentino",
+   "fecha": "1954-11-26",
+   "rubro": "deportes",
+   "disciplina": "Boxeo",
+   "protagonistas": [
+    "Pascual Pérez"
+   ],
+   "lugar": "Tokio, Japón",
+   "nivel": 2,
+   "resumen": "El mendocino venció a Yoshio Shirai en Tokio y se convirtió en el primer campeón mundial argentino de boxeo profesional.",
+   "contenido": [
+    "Pascual Pérez, campeón olímpico en Londres 1948, ganó el título mundial de los moscas y lo defendió durante años."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Pascual Pérez",
+     "url": "https://es.wikipedia.org/wiki/Pascual_P%C3%A9rez"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "boxeo",
+    "título mundial"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/pascual-perez-campeon-mundial-1954/"
+  },
+  {
+   "id": "houssay-nobel-medicina-1947",
+   "tipo": "historico",
+   "titulo": "Bernardo Houssay, primer Nobel de ciencia de Latinoamérica",
+   "fecha": "1947-12-10",
+   "rubro": "ciencia",
+   "disciplina": "Medicina",
+   "protagonistas": [
+    "Bernardo Houssay"
+   ],
+   "lugar": "Estocolmo, Suecia",
+   "nivel": 1,
+   "resumen": "Houssay recibió el Premio Nobel de Medicina por sus descubrimientos sobre la hipófisis y el metabolismo del azúcar.",
+   "contenido": [
+    "Fue el primer latinoamericano en ganar un Nobel en ciencias. Fundador del CONICET, es uno de los padres de la ciencia argentina."
+   ],
+   "fuentes": [
+    {
+     "medio": "NobelPrize.org",
+     "titulo": "Bernardo Houssay – Facts",
+     "url": "https://www.nobelprize.org/prizes/medicine/1947/houssay/facts/"
+    },
+    {
+     "medio": "Wikipedia",
+     "titulo": "Bernardo Houssay",
+     "url": "https://es.wikipedia.org/wiki/Bernardo_Houssay"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "nobel"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/houssay-nobel-medicina-1947/"
+  },
+  {
+   "id": "biro-patente-birome-1943",
+   "tipo": "historico",
+   "titulo": "Ladislao Biro patenta la birome en Argentina",
+   "fecha": "1943",
+   "rubro": "tecnologia",
+   "disciplina": "Inventos",
+   "protagonistas": [
+    "Ladislao José Biro"
+   ],
+   "lugar": "Buenos Aires, Argentina",
+   "nivel": 2,
+   "resumen": "El inventor húngaro-argentino patentó en Buenos Aires el bolígrafo moderno, usado hoy en todo el mundo.",
+   "contenido": [
+    "Biro llegó a la Argentina escapando de la guerra y aquí desarrolló y patentó la birome. En su honor, el 29 de septiembre, día de su nacimiento, se celebra en el país el Día del Inventor. El argentino nace donde quiere."
+   ],
+   "fuentes": [
+    {
+     "medio": "Wikipedia",
+     "titulo": "Ladislao José Biro",
+     "url": "https://es.wikipedia.org/wiki/Ladislao_Jos%C3%A9_Biro"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "invento"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/biro-patente-birome-1943/"
+  },
+  {
+   "id": "saavedra-lamas-nobel-paz-1936",
+   "tipo": "historico",
+   "titulo": "Saavedra Lamas, primer Nobel de la Paz latinoamericano",
+   "fecha": "1936-12-10",
+   "rubro": "sociedad",
+   "disciplina": "Paz",
+   "protagonistas": [
+    "Carlos Saavedra Lamas"
+   ],
+   "lugar": "Oslo, Noruega",
+   "nivel": 1,
+   "resumen": "El canciller argentino recibió el Nobel de la Paz por su mediación para terminar la Guerra del Chaco.",
+   "contenido": [
+    "Carlos Saavedra Lamas fue el primer latinoamericano en recibir un Premio Nobel, por su trabajo para poner fin al conflicto entre Bolivia y Paraguay."
+   ],
+   "fuentes": [
+    {
+     "medio": "NobelPrize.org",
+     "titulo": "Carlos Saavedra Lamas – Facts",
+     "url": "https://www.nobelprize.org/prizes/peace/1936/lamas/facts/"
+    },
+    {
+     "medio": "Wikipedia",
+     "titulo": "Carlos Saavedra Lamas",
+     "url": "https://es.wikipedia.org/wiki/Carlos_Saavedra_Lamas"
+    }
+   ],
+   "verificacion": {
+    "estado": "verificado",
+    "fecha": "2026-11-22",
+    "nota": "Hecho histórico documentado en fuentes de referencia."
+   },
+   "etiquetas": [
+    "nobel"
+   ],
+   "publicado": "2026-11-22",
+   "imagen": null,
+   "url": "https://argentriunfos.github.io/triunfo/saavedra-lamas-nobel-paz-1936/"
+  }
+ ]
+}
