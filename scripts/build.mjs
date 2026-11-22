@@ -107,10 +107,11 @@ function layout({ title, description, rel, body, jsonld, ogType = 'website' }) {
 <meta property="og:description" content="${esc(desc)}">
 <meta property="og:url" content="${ABS(rel)}">
 <meta property="og:site_name" content="${SITE.nombre}">
-<meta property="og:image" content="${ABS('assets/og.png')}">
+<meta property="og:image" content="${ABS('assets/og.jpg')}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0a1b33">
-<link rel="icon" href="${U('assets/favicon.svg')}" type="image/svg+xml">
+<link rel="icon" href="${U('assets/favicon.png')}" type="image/png">
+<link rel="apple-touch-icon" href="${U('assets/apple-touch-icon.png')}">
 <link rel="alternate" type="application/rss+xml" title="${SITE.nombre}" href="${U('feed.xml')}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
@@ -119,7 +120,7 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script
 </head>
 <body>
 <header class="top">
-  <a class="logo" href="${U()}">${sol('logo-sol')}<span>ARGENTRIUNFOS</span></a>
+  <a class="logo" href="${U()}"><img src="${U('assets/logo-128.webp')}" alt="" width="44" height="44"><span>ARGENTRIUNFOS</span></a>
   <nav>
     <a href="${U('noticias/')}">Noticias</a>
     <a href="${U('archivo/')}">Archivo</a>
@@ -132,7 +133,7 @@ ${body}
 <footer class="pie">
   <div class="franja"></div>
   <div class="pie-inner">
-    <div>${sol('pie-sol')}<strong>ARGENTRIUNFOS</strong><br><span>${esc(SITE.lema)}</span></div>
+    <div><img class="pie-logo" src="${U('assets/logo-128.webp')}" alt="Logo de Argentriunfos" width="64" height="64"><strong>ARGENTRIUNFOS</strong><br><span>${esc(SITE.lema)}</span></div>
     <div class="pie-links">
       <a href="${U('archivo/')}">Archivo completo</a>
       ${Object.keys(RUBROS).map((r) => `<a href="${U('rubro/' + r + '/')}">${esc(RUBROS[r].nombre)}</a>`).join('\n      ')}
@@ -167,7 +168,7 @@ const mini = triunfos.map((t) => ({ id: t.id, titulo: t.titulo, fecha: t.fecha, 
   const destacados = triunfos.filter((t) => t.nivel === 1 && t.tipo === 'historico').slice(0, 6);
   const body = `
 <section class="hero">
-  ${sol('hero-sol')}
+  <img class="hero-logo" src="${U('assets/logo.webp')}" alt="Logo de Argentriunfos: un titanosaurio con la bandera argentina" width="640" height="640">
   <div class="hero-inner">
     <p class="kicker">El registro verificado de la grandeza argentina</p>
     <h1>CADA TRIUNFO<br><span>ES DE TODOS</span></h1>
